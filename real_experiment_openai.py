@@ -3,7 +3,8 @@ import csv
 import random
 from datasets import load_dataset
 
-client = OpenAI(api_key="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")
+import os
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 def run_condition(question, condition, benchmark):
     if benchmark == "arc":

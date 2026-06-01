@@ -3,7 +3,8 @@ import csv
 import random
 from datasets import load_dataset
 
-client = anthropic.Anthropic(api_key="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")
+import os
+client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
 def run_condition(question, condition, benchmark):
     if benchmark == "arc":
@@ -105,7 +106,7 @@ gsm8k = load_dataset("openai/gsm8k", "main", split="test")
 
 # Sample 10 questions per benchmark for testing
 random.seed(42)
-n = 5
+n = 150
 benchmarks = {
     "strategyqa": {
         "data": [strategyqa[i] for i in random.sample(range(len(strategyqa)), n)],
