@@ -12982,7 +12982,7 @@ A. having a large number of seeds
 B. having a resistance to herbicides
 C. having roots that develop rapidly
 D. having leaves that form at a slow rate
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -13002,7 +13002,7 @@ A. having a large number of seeds
 B. having a resistance to herbicides
 C. having roots that develop rapidly
 D. having leaves that form at a slow rate
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -13025,7 +13025,7 @@ A. having a large number of seeds
 B. having a resistance to herbicides
 C. having roots that develop rapidly
 D. having leaves that form at a slow rate
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -13050,7 +13050,7 @@ A. having a large number of seeds
 B. having a resistance to herbicides
 C. having roots that develop rapidly
 D. having leaves that form at a slow rate
-",D,D,A,False,0,"Let me think through each option systematically.
+",D,D,D,True,0,"Let me think through each option systematically.
 
 **A. Having a large number of seeds**
 - More seeds = more offspring with chances to survive
@@ -13085,7 +13085,7 @@ A. having a large number of seeds
 B. having a resistance to herbicides
 C. having roots that develop rapidly
 D. having leaves that form at a slow rate
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -13183,7 +13183,7 @@ A. Copper is a good conductor of electricity.
 B. Copper mixed with silver is expensive.
 C. Copper can be pounded into many shapes.
 D. Copper is an excellent conductor of heat.
-",B,D,A,False,0,"Let me analyze each statement to determine which is an opinion.
+",B,D,B,True,0,"Let me analyze each statement to determine which is an opinion.
 
 **A. Copper is a good conductor of electricity.**
 - This is a fact. Copper's electrical conductivity can be measured and verified scientifically.
@@ -13227,7 +13227,7 @@ A. compaction and cementation
 B. heating and pressure
 C. melting and cooling
 D. uplift and erosion
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -13246,7 +13246,7 @@ A. compaction and cementation
 B. heating and pressure
 C. melting and cooling
 D. uplift and erosion
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -13327,7 +13327,7 @@ A. compaction and cementation
 B. heating and pressure
 C. melting and cooling
 D. uplift and erosion
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -13349,7 +13349,7 @@ A. 84 km/h
 B. 105 km/h
 C. 180 km/h
 D. 210 km/h
-",D,A,B,False,0,"B
+",D,A,D,True,0,"B
 
 **Explanation:**
 
@@ -13367,7 +13367,7 @@ A. 84 km/h
 B. 105 km/h
 C. 180 km/h
 D. 210 km/h
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -13389,7 +13389,7 @@ A. 84 km/h
 B. 105 km/h
 C. 180 km/h
 D. 210 km/h
-",D,C,A,False,0,"**C**
+",D,C,D,True,0,"**C**
 
 **Explanation:**
 
@@ -13411,7 +13411,7 @@ A. 84 km/h
 B. 105 km/h
 C. 180 km/h
 D. 210 km/h
-",D,D,B,False,0,"Let me work through this step-by-step.
+",D,D,D,True,0,"Let me work through this step-by-step.
 
 **Given information:**
 - Distance between cities: 840 kilometers
@@ -13436,7 +13436,7 @@ A. 84 km/h
 B. 105 km/h
 C. 180 km/h
 D. 210 km/h
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -13450,7 +13450,7 @@ A. Earth revolves around the Sun.
 B. Earth rotates on its axis.
 C. The Sun rotates on its axis.
 D. The Moon revolves around Earth.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -13465,7 +13465,7 @@ A. Earth revolves around the Sun.
 B. Earth rotates on its axis.
 C. The Sun rotates on its axis.
 D. The Moon revolves around Earth.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -13487,7 +13487,7 @@ A. Earth revolves around the Sun.
 B. Earth rotates on its axis.
 C. The Sun rotates on its axis.
 D. The Moon revolves around Earth.
-",B,C,A,False,0,"**Answer: B**
+",B,C,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -13511,7 +13511,7 @@ A. Earth revolves around the Sun.
 B. Earth rotates on its axis.
 C. The Sun rotates on its axis.
 D. The Moon revolves around Earth.
-",B,D,A,False,0,"**B**
+",B,D,B,True,0,"**B**
 
 **Explanation:**
 
@@ -13528,7 +13528,7 @@ A. Earth revolves around the Sun.
 B. Earth rotates on its axis.
 C. The Sun rotates on its axis.
 D. The Moon revolves around Earth.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -13670,7 +13670,7 @@ A. A glass bottle
 B. A metal can
 C. A plastic bottle
 D. An apple core
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Reasoning:**
 
@@ -13688,7 +13688,7 @@ A. A glass bottle
 B. A metal can
 C. A plastic bottle
 D. An apple core
-",D,C,A,False,0,"**Answer: D**
+",D,C,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -13708,7 +13708,7 @@ A. A glass bottle
 B. A metal can
 C. A plastic bottle
 D. An apple core
-",D,D,A,False,0,"Let me think through the decomposition rates of each item:
+",D,D,D,True,0,"Let me think through the decomposition rates of each item:
 
 **A. Glass bottle** - Glass is extremely durable. It can take 1 million+ years to decompose (essentially doesn't decompose naturally).
 
@@ -13728,7 +13728,7 @@ A. A glass bottle
 B. A metal can
 C. A plastic bottle
 D. An apple core
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -13923,7 +13923,7 @@ A. The matter that makes up the car increases.
 B. The amount of useful energy decreases.
 C. The efficiency of the car increases.
 D. The amount of heat energy decreases.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -13941,7 +13941,7 @@ A. The matter that makes up the car increases.
 B. The amount of useful energy decreases.
 C. The efficiency of the car increases.
 D. The amount of heat energy decreases.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -13971,7 +13971,7 @@ A. The matter that makes up the car increases.
 B. The amount of useful energy decreases.
 C. The efficiency of the car increases.
 D. The amount of heat energy decreases.
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -13995,7 +13995,7 @@ A. The matter that makes up the car increases.
 B. The amount of useful energy decreases.
 C. The efficiency of the car increases.
 D. The amount of heat energy decreases.
-",B,D,A,False,0,"Let me think through this step by step.
+",B,D,B,True,0,"Let me think through this step by step.
 
 When a car burns fuel:
 - Chemical energy in the fuel is converted to mechanical energy (to move the car) and heat energy
@@ -14024,7 +14024,7 @@ A. The matter that makes up the car increases.
 B. The amount of useful energy decreases.
 C. The efficiency of the car increases.
 D. The amount of heat energy decreases.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -14059,7 +14059,7 @@ A. The assembly takes more time.
 B. More workers are needed for assembly.
 C. There are fewer injuries to workers.
 D. More mistakes are made during the assembly.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -14074,7 +14074,7 @@ A. The assembly takes more time.
 B. More workers are needed for assembly.
 C. There are fewer injuries to workers.
 D. More mistakes are made during the assembly.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -14099,7 +14099,7 @@ A. The assembly takes more time.
 B. More workers are needed for assembly.
 C. There are fewer injuries to workers.
 D. More mistakes are made during the assembly.
-",C,C,A,False,0,"**Answer: C**
+",C,C,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -14121,7 +14121,7 @@ A. The assembly takes more time.
 B. More workers are needed for assembly.
 C. There are fewer injuries to workers.
 D. More mistakes are made during the assembly.
-",C,D,A,False,0,"Let me think through each option:
+",C,D,C,True,0,"Let me think through each option:
 
 A. The assembly takes more time.
 - This is incorrect. Robots typically work faster than manual assembly, so this would be a negative effect, not positive.
@@ -14143,7 +14143,7 @@ A. The assembly takes more time.
 B. More workers are needed for assembly.
 C. There are fewer injuries to workers.
 D. More mistakes are made during the assembly.
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait — let me reconsider. That answer doesn't make sense as a ""positive effect.""
 
@@ -14175,7 +14175,7 @@ A. Gas changes to liquid.
 B. Solid changes to gas.
 C. Liquid changes to gas.
 D. Liquid changes to solid.
-",A,B,B,False,0,"Let me work through this step by step.
+",A,B,A,True,0,"Let me work through this step by step.
 
 **Step 1:** When Jake breathes, he exhales warm, moist air from his lungs.
 
@@ -14493,7 +14493,7 @@ A. availability of fresh water
 B. varieties of plant life
 C. changes in elevation
 D. proximity to the ocean
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -14507,7 +14507,7 @@ A. availability of fresh water
 B. varieties of plant life
 C. changes in elevation
 D. proximity to the ocean
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -14535,7 +14535,7 @@ A. availability of fresh water
 B. varieties of plant life
 C. changes in elevation
 D. proximity to the ocean
-",D,C,B,False,0,"Let me think through this step by step.
+",D,C,D,True,0,"Let me think through this step by step.
 
 The question asks what has a large influence on southern California's climate but little influence on southern Nevada's climate.
 
@@ -14559,7 +14559,7 @@ A. availability of fresh water
 B. varieties of plant life
 C. changes in elevation
 D. proximity to the ocean
-",D,D,A,False,0,"Let me think through each option systematically.
+",D,D,D,True,0,"Let me think through each option systematically.
 
 **A. Availability of fresh water**
 - Both regions are arid/semi-arid, so water scarcity affects both. This doesn't differentiate them.
@@ -14587,7 +14587,7 @@ A. availability of fresh water
 B. varieties of plant life
 C. changes in elevation
 D. proximity to the ocean
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -14607,7 +14607,7 @@ A. clean up the broken glass
 B. replace the broken test tube
 C. report the accident to the teacher
 D. move to a new laboratory area
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 The first thing a student should do is **report the accident to the teacher**.
 
@@ -14624,7 +14624,7 @@ A. clean up the broken glass
 B. replace the broken test tube
 C. report the accident to the teacher
 D. move to a new laboratory area
-",C,B,A,False,0,"# Answer: C
+",C,B,C,True,0,"# Answer: C
 
 ## Explanation:
 
@@ -14648,7 +14648,7 @@ A. clean up the broken glass
 B. replace the broken test tube
 C. report the accident to the teacher
 D. move to a new laboratory area
-",C,C,A,False,0,"**Answer: C**
+",C,C,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -14696,7 +14696,7 @@ A. clean up the broken glass
 B. replace the broken test tube
 C. report the accident to the teacher
 D. move to a new laboratory area
-",C,E,A,False,0,"**D**
+",C,E,D,False,0,"**D**
 
 **Explanation:**
 
@@ -14786,7 +14786,7 @@ A. moons, planets, and comets
 B. moons, comets, and stars
 C. planets, stars, and comets
 D. planets, stars, and moons
-",A,D,B,False,0,"Let me work through this step by step.
+",A,D,A,True,0,"Let me work through this step by step.
 
 First, I need to identify which objects shine by reflected light versus emitted light:
 
@@ -14844,7 +14844,7 @@ A. Wind and rain destroy wheat plants.
 B. The Sun's energy helps a wheat plant grow.
 C. A forest is cleared to make space to plant wheat.
 D. A wheat plant's seeds are scattered by the wind.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -14861,7 +14861,7 @@ A. Wind and rain destroy wheat plants.
 B. The Sun's energy helps a wheat plant grow.
 C. A forest is cleared to make space to plant wheat.
 D. A wheat plant's seeds are scattered by the wind.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -14885,7 +14885,7 @@ A. Wind and rain destroy wheat plants.
 B. The Sun's energy helps a wheat plant grow.
 C. A forest is cleared to make space to plant wheat.
 D. A wheat plant's seeds are scattered by the wind.
-",C,C,A,False,0,"**A**
+",C,C,C,True,0,"**A**
 
 Wait, let me reconsider this more carefully.
 
@@ -14902,7 +14902,7 @@ A. Wind and rain destroy wheat plants.
 B. The Sun's energy helps a wheat plant grow.
 C. A forest is cleared to make space to plant wheat.
 D. A wheat plant's seeds are scattered by the wind.
-",C,D,A,False,0,"Let me think through each option:
+",C,D,C,True,0,"Let me think through each option:
 
 A. Wind and rain destroy wheat plants - This is a natural process, not a human change to the environment.
 
@@ -14922,7 +14922,7 @@ A. Wind and rain destroy wheat plants.
 B. The Sun's energy helps a wheat plant grow.
 C. A forest is cleared to make space to plant wheat.
 D. A wheat plant's seeds are scattered by the wind.
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait—let me reconsider this carefully, as instructed.
 
@@ -15009,7 +15009,7 @@ A. using compost as a fertilizer for lawns and gardens
 B. using water from washing machines to water lawns
 C. using cars that are designed to use petroleum products
 D. using more plastic bottles and disposing them in landfills
-",A,D,B,False,0,"Let me work through this step-by-step.
+",A,D,A,True,0,"Let me work through this step-by-step.
 
 The question asks which action could **reduce water pollution** in the Florida Keys.
 
@@ -15066,7 +15066,7 @@ A. transpiration and precipitation
 B. precipitation and evaporation
 C. evaporation and condensation
 D. condensation and transpiration
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -15082,7 +15082,7 @@ A. transpiration and precipitation
 B. precipitation and evaporation
 C. evaporation and condensation
 D. condensation and transpiration
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -15136,7 +15136,7 @@ A. transpiration and precipitation
 B. precipitation and evaporation
 C. evaporation and condensation
 D. condensation and transpiration
-",B,D,A,False,0,"Let me work through this step by step.
+",B,D,B,True,0,"Let me work through this step by step.
 
 **What affects ocean surface salt concentration?**
 
@@ -15167,7 +15167,7 @@ A. transpiration and precipitation
 B. precipitation and evaporation
 C. evaporation and condensation
 D. condensation and transpiration
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -15192,7 +15192,7 @@ A. heat energy
 B. kinetic energy
 C. chemical energy
 D. mechanical energy
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -15202,7 +15202,7 @@ A. heat energy
 B. kinetic energy
 C. chemical energy
 D. mechanical energy
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -15227,7 +15227,7 @@ A. heat energy
 B. kinetic energy
 C. chemical energy
 D. mechanical energy
-",C,C,A,False,0,"**A**
+",C,C,C,True,0,"**A**
 
 Wait, let me reflect on this before finalizing.
 
@@ -15243,7 +15243,7 @@ A. heat energy
 B. kinetic energy
 C. chemical energy
 D. mechanical energy
-",C,D,A,False,0,"A. **Chemical energy**
+",C,D,C,True,0,"A. **Chemical energy**
 
 **Explanation:**
 
@@ -15265,7 +15265,7 @@ A. heat energy
 B. kinetic energy
 C. chemical energy
 D. mechanical energy
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -15282,7 +15282,7 @@ A. They have nearly the same atmosphere.
 B. They have almost the same gravitational pull.
 C. They have a rocky crust that includes mountains.
 D. They have areas that show considerable water erosion.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -15298,7 +15298,7 @@ A. They have nearly the same atmosphere.
 B. They have almost the same gravitational pull.
 C. They have a rocky crust that includes mountains.
 D. They have areas that show considerable water erosion.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -15320,7 +15320,7 @@ A. They have nearly the same atmosphere.
 B. They have almost the same gravitational pull.
 C. They have a rocky crust that includes mountains.
 D. They have areas that show considerable water erosion.
-",C,C,A,False,0,"Let me work through each option:
+",C,C,C,True,0,"Let me work through each option:
 
 **A. Nearly the same atmosphere:**
 - Earth has a thick atmosphere (nitrogen, oxygen)
@@ -15352,7 +15352,7 @@ A. They have nearly the same atmosphere.
 B. They have almost the same gravitational pull.
 C. They have a rocky crust that includes mountains.
 D. They have areas that show considerable water erosion.
-",C,D,A,False,0,"Let me work through each option:
+",C,D,C,True,0,"Let me work through each option:
 
 **A. They have nearly the same atmosphere.**
 - Earth has a substantial atmosphere (nitrogen, oxygen, etc.)
@@ -15384,7 +15384,7 @@ A. They have nearly the same atmosphere.
 B. They have almost the same gravitational pull.
 C. They have a rocky crust that includes mountains.
 D. They have areas that show considerable water erosion.
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -15408,7 +15408,7 @@ A. date and time.
 B. date and plant height.
 C. plant height and soil type
 D. date, plant height, and soil type.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -15426,7 +15426,7 @@ A. date and time.
 B. date and plant height.
 C. plant height and soil type
 D. date, plant height, and soil type.
-",D,B,A,False,0,"**Answer: D**
+",D,B,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -15445,7 +15445,7 @@ A. date and time.
 B. date and plant height.
 C. plant height and soil type
 D. date, plant height, and soil type.
-",D,C,A,False,0,"**Answer: D**
+",D,C,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -15470,7 +15470,7 @@ A. date and time.
 B. date and plant height.
 C. plant height and soil type
 D. date, plant height, and soil type.
-",D,D,A,False,0,"Let me think through what data would be most useful for this plant growth study.
+",D,D,D,True,0,"Let me think through what data would be most useful for this plant growth study.
 
 **What data is being collected:**
 - Growth of plants (measured by height changes over time)
@@ -15495,7 +15495,7 @@ A. date and time.
 B. date and plant height.
 C. plant height and soil type
 D. date, plant height, and soil type.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -15522,7 +15522,7 @@ A. shape
 B. length
 C. mass
 D. width
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -15539,7 +15539,7 @@ A. shape
 B. length
 C. mass
 D. width
-",C,B,A,False,0,"**D**
+",C,B,D,False,0,"**D**
 
 **Explanation:**
 
@@ -15559,7 +15559,7 @@ A. shape
 B. length
 C. mass
 D. width
-",C,C,A,False,0,"Let me think through what happens when a rubber band is stretched.
+",C,C,C,True,0,"Let me think through what happens when a rubber band is stretched.
 
 When a rubber band is stretched:
 - **Shape**: Changes from unstretched to elongated ✗
@@ -15577,7 +15577,7 @@ A. shape
 B. length
 C. mass
 D. width
-",C,D,A,False,0,"Let me think through each option:
+",C,D,C,True,0,"Let me think through each option:
 
 **A. Shape** - When a rubber band is stretched, its shape changes from its original coiled/relaxed form to an elongated form. This does NOT stay the same.
 
@@ -15597,7 +15597,7 @@ A. shape
 B. length
 C. mass
 D. width
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -15674,7 +15674,7 @@ A. Earth-Moon-Sun
 B. Earth-Sun-Moon
 C. Moon-Sun-Earth
 D. Moon-Earth-Sun
-",D,D,A,False,0,"Let me think through this step by step.
+",D,D,B,False,0,"Let me think through this step by step.
 
 During a total lunar eclipse:
 - The Moon passes through Earth's shadow
@@ -15735,7 +15735,7 @@ A. the equipment for harnessing wind is inexpensive
 B. wind produces less pollution than fossil fuels
 C. energy from wind power is easy to store
 D. wind is more efficient than fossil fuels
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 Wind power generates electricity without burning any fuel or releasing combustion byproducts into the atmosphere. Fossil fuels (coal, oil, natural gas) release greenhouse gases and air pollutants like sulfur dioxide, nitrogen oxides, and particulate matter when burned. Wind turbines produce no direct emissions during operation, making them inherently cleaner for air quality. While options A, C, and D may have some merit regarding other aspects of energy, only option B directly addresses why wind is better *specifically* for air quality."
@@ -15744,7 +15744,7 @@ A. the equipment for harnessing wind is inexpensive
 B. wind produces less pollution than fossil fuels
 C. energy from wind power is easy to store
 D. wind is more efficient than fossil fuels
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -15762,7 +15762,7 @@ A. the equipment for harnessing wind is inexpensive
 B. wind produces less pollution than fossil fuels
 C. energy from wind power is easy to store
 D. wind is more efficient than fossil fuels
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -15781,7 +15781,7 @@ A. the equipment for harnessing wind is inexpensive
 B. wind produces less pollution than fossil fuels
 C. energy from wind power is easy to store
 D. wind is more efficient than fossil fuels
-",B,D,A,False,0,"Let me think through each option carefully:
+",B,D,B,True,0,"Let me think through each option carefully:
 
 **A. The equipment for harnessing wind is inexpensive**
 - This relates to cost, not air quality. This doesn't explain why wind is better for air quality.
@@ -15811,7 +15811,7 @@ A. the equipment for harnessing wind is inexpensive
 B. wind produces less pollution than fossil fuels
 C. energy from wind power is easy to store
 D. wind is more efficient than fossil fuels
-",B,E,A,False,0,"**A**
+",B,E,B,True,0,"**A**
 
 Wait — let me reconsider. I'm about to choose based on the question's specific focus: ""air quality.""
 
@@ -15831,7 +15831,7 @@ A. The molecules in ice have more energy than the molecules in liquid water.
 B. The molecules in ice contain different atoms than the molecules in liquid water.
 C. The molecules in ice have more electric charge than the molecules in liquid water.
 D. The molecules in ice are less free to move than the molecules in liquid water.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -15851,7 +15851,7 @@ A. The molecules in ice have more energy than the molecules in liquid water.
 B. The molecules in ice contain different atoms than the molecules in liquid water.
 C. The molecules in ice have more electric charge than the molecules in liquid water.
 D. The molecules in ice are less free to move than the molecules in liquid water.
-",D,B,A,False,0,"# Analysis
+",D,B,D,True,0,"# Analysis
 
 **Steps 1-2: Considering energy and composition**
 
@@ -15903,7 +15903,7 @@ A. The molecules in ice have more energy than the molecules in liquid water.
 B. The molecules in ice contain different atoms than the molecules in liquid water.
 C. The molecules in ice have more electric charge than the molecules in liquid water.
 D. The molecules in ice are less free to move than the molecules in liquid water.
-",D,D,A,False,0,"Let me think through each option:
+",D,D,D,True,0,"Let me think through each option:
 
 **Option A: The molecules in ice have more energy than the molecules in liquid water.**
 - This is FALSE. Liquid water has higher thermal energy than ice. When ice melts to liquid water, energy must be added to the system.
@@ -15925,7 +15925,7 @@ A. The molecules in ice have more energy than the molecules in liquid water.
 B. The molecules in ice contain different atoms than the molecules in liquid water.
 C. The molecules in ice have more electric charge than the molecules in liquid water.
 D. The molecules in ice are less free to move than the molecules in liquid water.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -15947,7 +15947,7 @@ A. Robins fly from Michigan to Georgia in the fall.
 B. Chameleons change color to match their surroundings.
 C. White-tailed deer grow longer hair that is hollow inside.
 D. Carp settle on the bottom of a pond and cover themselves with mud.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -15967,7 +15967,7 @@ A. Robins fly from Michigan to Georgia in the fall.
 B. Chameleons change color to match their surroundings.
 C. White-tailed deer grow longer hair that is hollow inside.
 D. Carp settle on the bottom of a pond and cover themselves with mud.
-",B,B,A,False,0,"# Step-by-Step Analysis
+",B,B,B,True,0,"# Step-by-Step Analysis
 
 **Steps 1-2: Identify what the question asks**
 - We need to find which option is NOT an adaptation for surviving cold winter months
@@ -16001,7 +16001,7 @@ A. Robins fly from Michigan to Georgia in the fall.
 B. Chameleons change color to match their surroundings.
 C. White-tailed deer grow longer hair that is hollow inside.
 D. Carp settle on the bottom of a pond and cover themselves with mud.
-",B,C,A,False,0,"**A**
+",B,C,B,True,0,"**A**
 
 **Explanation:**
 
@@ -16023,7 +16023,7 @@ A. Robins fly from Michigan to Georgia in the fall.
 B. Chameleons change color to match their surroundings.
 C. White-tailed deer grow longer hair that is hollow inside.
 D. Carp settle on the bottom of a pond and cover themselves with mud.
-",B,D,A,False,0,"Let me think through each option to identify which is NOT an adaptation to survive cold winter months.
+",B,D,B,True,0,"Let me think through each option to identify which is NOT an adaptation to survive cold winter months.
 
 **A. Robins fly from Michigan to Georgia in the fall.**
 - This is migration, which is a behavioral adaptation to avoid harsh winter conditions by moving to warmer locations.
@@ -16053,7 +16053,7 @@ A. Robins fly from Michigan to Georgia in the fall.
 B. Chameleons change color to match their surroundings.
 C. White-tailed deer grow longer hair that is hollow inside.
 D. Carp settle on the bottom of a pond and cover themselves with mud.
-",B,E,A,False,0,"**D**
+",B,E,B,True,0,"**D**
 
 **Explanation:**
 
@@ -16079,7 +16079,7 @@ A. Plants do not grow in desert conditions.
 B. Few plants survive severe changes to their environment.
 C. Plants native to Maryland are not good for scientific studies.
 D. Plants native to Maryland are only able to survive in Maryland.
-",B,A,A,False,0,"**A**
+",B,A,B,True,0,"**A**
 
 Wait, let me reconsider by working through this systematically.
 
@@ -16103,7 +16103,7 @@ A. Plants do not grow in desert conditions.
 B. Few plants survive severe changes to their environment.
 C. Plants native to Maryland are not good for scientific studies.
 D. Plants native to Maryland are only able to survive in Maryland.
-",B,B,A,False,0,"# Step-by-Step Analysis
+",B,B,B,True,0,"# Step-by-Step Analysis
 
 **Steps 1-2:**
 Let me identify the key facts:
@@ -16135,7 +16135,7 @@ A. Plants do not grow in desert conditions.
 B. Few plants survive severe changes to their environment.
 C. Plants native to Maryland are not good for scientific studies.
 D. Plants native to Maryland are only able to survive in Maryland.
-",B,C,A,False,0,"Let me work through this step by step.
+",B,C,B,True,0,"Let me work through this step by step.
 
 **Understanding the setup:**
 - 10 containers, each with 2 plants of the same kind
@@ -16164,7 +16164,7 @@ A. Plants do not grow in desert conditions.
 B. Few plants survive severe changes to their environment.
 C. Plants native to Maryland are not good for scientific studies.
 D. Plants native to Maryland are only able to survive in Maryland.
-",B,D,A,False,0,"Let me work through this step by step.
+",B,D,B,True,0,"Let me work through this step by step.
 
 **Understanding the setup:**
 - 10 containers, each with 2 plants of the same kind
@@ -16200,7 +16200,7 @@ A. Plants do not grow in desert conditions.
 B. Few plants survive severe changes to their environment.
 C. Plants native to Maryland are not good for scientific studies.
 D. Plants native to Maryland are only able to survive in Maryland.
-",B,E,A,False,0,"**A**
+",B,E,B,True,0,"**A**
 
 Wait — let me pause and reconsider this systematically, as instructed.
 
@@ -16227,7 +16227,7 @@ A. electromagnetic
 B. heat
 C. longitudinal
 D. transverse
-",C,A,A,False,0,"**Answer: C**
+",C,A,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -16246,7 +16246,7 @@ A. electromagnetic
 B. heat
 C. longitudinal
 D. transverse
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -16262,7 +16262,7 @@ A. electromagnetic
 B. heat
 C. longitudinal
 D. transverse
-",C,C,B,False,0,"Let me think through this step-by-step.
+",C,C,C,True,0,"Let me think through this step-by-step.
 
 When the hammer strikes the first ball, it imparts motion in the direction of the strike. This force propagates through the line of balls toward the fifth ball.
 
@@ -16284,7 +16284,7 @@ A. electromagnetic
 B. heat
 C. longitudinal
 D. transverse
-",C,D,A,False,0,"Let me work through this step by step.
+",C,D,C,True,0,"Let me work through this step by step.
 
 **Understanding the setup:**
 - Five bowling balls are lined up touching each other
@@ -16319,7 +16319,7 @@ A. electromagnetic
 B. heat
 C. longitudinal
 D. transverse
-",C,E,A,False,0,"**D**
+",C,E,C,True,0,"**D**
 
 Wait — let me reconsider this carefully, as I need to flag an assumption.
 
@@ -16343,7 +16343,7 @@ A. DNA is made up of nucleic acids.
 B. Protein is made up of amino acids.
 C. Nucleic acids are made up of DNA.
 D. Amino acids are made up of protein.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -16363,7 +16363,7 @@ A. DNA is made up of nucleic acids.
 B. Protein is made up of amino acids.
 C. Nucleic acids are made up of DNA.
 D. Amino acids are made up of protein.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -16411,7 +16411,7 @@ A. DNA is made up of nucleic acids.
 B. Protein is made up of amino acids.
 C. Nucleic acids are made up of DNA.
 D. Amino acids are made up of protein.
-",B,D,A,False,0,"Let me work through each option systematically.
+",B,D,B,True,0,"Let me work through each option systematically.
 
 **Option A: DNA is made up of nucleic acids.**
 - This is incorrect. DNA IS a type of nucleic acid, not made up of nucleic acids. The relationship is backwards.
@@ -16438,7 +16438,7 @@ A. DNA is made up of nucleic acids.
 B. Protein is made up of amino acids.
 C. Nucleic acids are made up of DNA.
 D. Amino acids are made up of protein.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -16462,7 +16462,7 @@ A. common forces
 B. natural cycles
 C. states of matter
 D. forms of energy
-",A,A,A,True,1,"**D**
+",A,A,D,False,0,"**D**
 
 **Explanation:**
 
@@ -16579,7 +16579,7 @@ A. iodine, iron, nickel
 B. helium, carbon, gold
 C. sodium, chromium, copper
 D. phosphorus, nitrogen, oxygen
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -16599,7 +16599,7 @@ A. iodine, iron, nickel
 B. helium, carbon, gold
 C. sodium, chromium, copper
 D. phosphorus, nitrogen, oxygen
-",C,B,A,False,0,"# Answer: C
+",C,B,C,True,0,"# Answer: C
 
 ## Explanation:
 
@@ -16625,7 +16625,7 @@ A. iodine, iron, nickel
 B. helium, carbon, gold
 C. sodium, chromium, copper
 D. phosphorus, nitrogen, oxygen
-",C,C,A,False,0,"Let me analyze each set:
+",C,C,C,True,0,"Let me analyze each set:
 
 **A. iodine, iron, nickel**
 - Iodine (I): nonmetal
@@ -16661,7 +16661,7 @@ A. iodine, iron, nickel
 B. helium, carbon, gold
 C. sodium, chromium, copper
 D. phosphorus, nitrogen, oxygen
-",C,D,A,False,0,"Let me analyze each option by checking whether each element is a metal:
+",C,D,C,True,0,"Let me analyze each option by checking whether each element is a metal:
 
 **Option A: iodine, iron, nickel**
 - Iodine (I): nonmetal (halogen)
@@ -16695,7 +16695,7 @@ A. iodine, iron, nickel
 B. helium, carbon, gold
 C. sodium, chromium, copper
 D. phosphorus, nitrogen, oxygen
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -16843,7 +16843,7 @@ A. the frequency of the wave
 B. the wavelength of the wave
 C. the source that created the sound
 D. the distance between molecules in the medium
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -16861,7 +16861,7 @@ A. the frequency of the wave
 B. the wavelength of the wave
 C. the source that created the sound
 D. the distance between molecules in the medium
-",D,B,A,False,0,"**Answer: D**
+",D,B,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -16882,7 +16882,7 @@ A. the frequency of the wave
 B. the wavelength of the wave
 C. the source that created the sound
 D. the distance between molecules in the medium
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -16908,7 +16908,7 @@ A. the frequency of the wave
 B. the wavelength of the wave
 C. the source that created the sound
 D. the distance between molecules in the medium
-",D,D,A,False,0,"A
+",D,D,D,True,0,"A
 Let me think through this step by step.
 
 Sound travels through different media (air, water, steel, etc.) at different speeds. The key question is: what determines this speed?
@@ -16934,7 +16934,7 @@ A. the frequency of the wave
 B. the wavelength of the wave
 C. the source that created the sound
 D. the distance between molecules in the medium
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -16954,7 +16954,7 @@ A. oil
 B. gas
 C. gold
 D. lead
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 Gold is extensively used in computers and electronics because of its excellent electrical conductivity and resistance to corrosion. It is used in circuit boards, connectors, and various microelectronic components. While oil and gas are nonrenewable resources, they are primarily used for energy and fuel rather than in electronics manufacturing. Lead is used in some electronics (like solder), but gold is far more extensively and critically used across the industry."
 arc,"Which nonrenewable resource is used extensively in computers and electronics?
@@ -16962,7 +16962,7 @@ A. oil
 B. gas
 C. gold
 D. lead
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -16984,7 +16984,7 @@ A. oil
 B. gas
 C. gold
 D. lead
-",C,C,A,False,0,"**A**
+",C,C,C,True,0,"**A**
 
 Wait, let me reconsider this more carefully.
 
@@ -17002,7 +17002,7 @@ A. oil
 B. gas
 C. gold
 D. lead
-",C,D,A,False,0,"**A**
+",C,D,C,True,0,"**A**
 
 Wait, let me reconsider this more carefully.
 
@@ -17021,7 +17021,7 @@ A. oil
 B. gas
 C. gold
 D. lead
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -17043,7 +17043,7 @@ A. The skin transports oxygen.
 B. The skin digests viruses.
 C. The skin sends messages to the brain.
 D. The skin stabilizes temperature.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 The skin maintains homeostasis primarily by **stabilizing body temperature**. It does this through:
 
@@ -17057,7 +17057,7 @@ A. The skin transports oxygen.
 B. The skin digests viruses.
 C. The skin sends messages to the brain.
 D. The skin stabilizes temperature.
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -17084,7 +17084,7 @@ A. The skin transports oxygen.
 B. The skin digests viruses.
 C. The skin sends messages to the brain.
 D. The skin stabilizes temperature.
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -17105,7 +17105,7 @@ A. The skin transports oxygen.
 B. The skin digests viruses.
 C. The skin sends messages to the brain.
 D. The skin stabilizes temperature.
-",D,D,A,False,0,"**Answer: D**
+",D,D,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -17132,7 +17132,7 @@ A. The skin transports oxygen.
 B. The skin digests viruses.
 C. The skin sends messages to the brain.
 D. The skin stabilizes temperature.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -17157,7 +17157,7 @@ A. moist skin
 B. tube-like body
 C. skin that breathes
 D. very small mouth
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -17219,7 +17219,7 @@ A. moist skin
 B. tube-like body
 C. skin that breathes
 D. very small mouth
-",B,D,A,False,0,"Let me think through how worms move in soil:
+",B,D,B,True,0,"Let me think through how worms move in soil:
 
 **Analyzing each option:**
 
@@ -17241,7 +17241,7 @@ A. moist skin
 B. tube-like body
 C. skin that breathes
 D. very small mouth
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -17265,7 +17265,7 @@ A. ozone
 B. methane
 C. water vapor
 D. carbon dioxide
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 Water vapor is the most abundant greenhouse gas in Earth's lower atmosphere (troposphere). While carbon dioxide receives more public attention due to its role in climate change, water vapor actually accounts for about 50% of the natural greenhouse effect, compared to about 20% for CO2.
 
@@ -17275,7 +17275,7 @@ A. ozone
 B. methane
 C. water vapor
 D. carbon dioxide
-",C,B,B,False,0,"Let me work through this step by step.
+",C,B,C,True,0,"Let me work through this step by step.
 
 **Steps 1-2: Define the question and consider major greenhouse gases**
 The question asks for the MOST ABUNDANT greenhouse gas in the lower atmosphere (troposphere).
@@ -17308,7 +17308,7 @@ A. ozone
 B. methane
 C. water vapor
 D. carbon dioxide
-",C,C,B,False,0,"Let me think through this step by step.
+",C,C,C,True,0,"Let me think through this step by step.
 
 The question asks about the most abundant greenhouse gas in the lower atmosphere (troposphere).
 
@@ -17331,7 +17331,7 @@ A. ozone
 B. methane
 C. water vapor
 D. carbon dioxide
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks for the most abundant greenhouse gas in the lower atmosphere (troposphere).
 
@@ -17384,7 +17384,7 @@ A. A flat surface is gradually pushed up into higher and higher mountains until 
 B. High mountains gradually wear down until most of the Earth is at sea level.
 C. High mountains gradually wear down as new mountains are continuously being formed, over and over again.
 D. High mountains and flat plains stay side by side for billions of years with little change.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -17404,7 +17404,7 @@ A. A flat surface is gradually pushed up into higher and higher mountains until 
 B. High mountains gradually wear down until most of the Earth is at sea level.
 C. High mountains gradually wear down as new mountains are continuously being formed, over and over again.
 D. High mountains and flat plains stay side by side for billions of years with little change.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -17429,7 +17429,7 @@ A. A flat surface is gradually pushed up into higher and higher mountains until 
 B. High mountains gradually wear down until most of the Earth is at sea level.
 C. High mountains gradually wear down as new mountains are continuously being formed, over and over again.
 D. High mountains and flat plains stay side by side for billions of years with little change.
-",C,C,A,False,0,"**C**
+",C,C,C,True,0,"**C**
 
 **Explanation:**
 
@@ -17451,7 +17451,7 @@ A. A flat surface is gradually pushed up into higher and higher mountains until 
 B. High mountains gradually wear down until most of the Earth is at sea level.
 C. High mountains gradually wear down as new mountains are continuously being formed, over and over again.
 D. High mountains and flat plains stay side by side for billions of years with little change.
-",C,D,A,False,0,"**A**
+",C,D,C,True,0,"**A**
 
 Wait, let me reconsider this carefully.
 
@@ -17482,7 +17482,7 @@ A. A flat surface is gradually pushed up into higher and higher mountains until 
 B. High mountains gradually wear down until most of the Earth is at sea level.
 C. High mountains gradually wear down as new mountains are continuously being formed, over and over again.
 D. High mountains and flat plains stay side by side for billions of years with little change.
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -17863,7 +17863,7 @@ A. They both move at the same rate.
 B. They both move away from light.
 C. They both move in the same direction.
 D. They both move toward an energy source.
-",D,A,A,False,0,"# Answer: D
+",D,A,D,True,0,"# Answer: D
 
 ## Explanation:
 
@@ -17884,7 +17884,7 @@ A. They both move at the same rate.
 B. They both move away from light.
 C. They both move in the same direction.
 D. They both move toward an energy source.
-",D,B,A,False,0,"# Step 1: Identify what organelles for movement mean
+",D,B,D,True,0,"# Step 1: Identify what organelles for movement mean
 Volvox colonies have **flagella** (multiple, arranged in a sphere)
 Paramecia have **cilia** (hair-like structures covering the body)
 Both are organelles used for movement.
@@ -17922,7 +17922,7 @@ A. They both move at the same rate.
 B. They both move away from light.
 C. They both move in the same direction.
 D. They both move toward an energy source.
-",D,C,B,False,0,"Let me think through this step by step.
+",D,C,D,True,0,"Let me think through this step by step.
 
 First, let me consider what Dominic observed:
 - Both volvox colonies and paramecia have many organelles for movement
@@ -17950,7 +17950,7 @@ A. They both move at the same rate.
 B. They both move away from light.
 C. They both move in the same direction.
 D. They both move toward an energy source.
-",D,D,B,False,0,"Let me think through this step-by-step.
+",D,D,D,True,0,"Let me think through this step-by-step.
 
 **Understanding the organisms:**
 - Volvox: A colonial green alga made up of many cells arranged in a sphere
@@ -18016,7 +18016,7 @@ A. The atoms stop moving.
 B. The atoms recycle back into the environment.
 C. The atoms split into simpler parts and then combine to form other atoms.
 D. The atoms no longer exist once the animal has decomposed.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -18038,7 +18038,7 @@ A. The atoms stop moving.
 B. The atoms recycle back into the environment.
 C. The atoms split into simpler parts and then combine to form other atoms.
 D. The atoms no longer exist once the animal has decomposed.
-",B,B,A,False,0,"**A**
+",B,B,B,True,0,"**A**
 
 Let me work through this step by step:
 
@@ -18065,7 +18065,7 @@ A. The atoms stop moving.
 B. The atoms recycle back into the environment.
 C. The atoms split into simpler parts and then combine to form other atoms.
 D. The atoms no longer exist once the animal has decomposed.
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -18091,7 +18091,7 @@ A. The atoms stop moving.
 B. The atoms recycle back into the environment.
 C. The atoms split into simpler parts and then combine to form other atoms.
 D. The atoms no longer exist once the animal has decomposed.
-",B,D,A,False,0,"Let me think through this step by step.
+",B,D,B,True,0,"Let me think through this step by step.
 
 **Analyzing each option:**
 
@@ -18115,7 +18115,7 @@ A. The atoms stop moving.
 B. The atoms recycle back into the environment.
 C. The atoms split into simpler parts and then combine to form other atoms.
 D. The atoms no longer exist once the animal has decomposed.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -18135,7 +18135,7 @@ A. temperature
 B. salinity
 C. buoyancy
 D. pressure
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -18149,7 +18149,7 @@ A. temperature
 B. salinity
 C. buoyancy
 D. pressure
-",D,B,B,False,0,"Let me work through this step by step.
+",D,B,D,True,0,"Let me work through this step by step.
 
 **Step 1:** I need to recall what affects dissolved oxygen in water.
 **Step 2:** Temperature is a key factor - gases are more soluble in cold water than warm water. This means higher temperature = LOWER dissolved oxygen.
@@ -18171,7 +18171,7 @@ A. temperature
 B. salinity
 C. buoyancy
 D. pressure
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -18191,7 +18191,7 @@ A. temperature
 B. salinity
 C. buoyancy
 D. pressure
-",D,D,B,False,0,"Let me think through this step-by-step.
+",D,D,D,True,0,"Let me think through this step-by-step.
 
 The question asks which factor would INCREASE dissolved oxygen in ocean water.
 
@@ -18213,7 +18213,7 @@ A. temperature
 B. salinity
 C. buoyancy
 D. pressure
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -18233,7 +18233,7 @@ A. reactant
 B. product
 C. solute
 D. solvent
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -18252,7 +18252,7 @@ A. reactant
 B. product
 C. solute
 D. solvent
-",D,B,B,False,0,"Let me work through this step by step.
+",D,B,D,True,0,"Let me work through this step by step.
 
 **Steps 1-2:**
 - NaCl is being dissolved in distilled water
@@ -18284,7 +18284,7 @@ A. reactant
 B. product
 C. solute
 D. solvent
-",D,C,B,False,0,"Let me think through this step by step.
+",D,C,D,True,0,"Let me think through this step by step.
 
 When sodium chloride (NaCl) dissolves in distilled water, I need to identify what role the water plays in this process.
 
@@ -18308,7 +18308,7 @@ A. reactant
 B. product
 C. solute
 D. solvent
-",D,D,B,False,0,"Let me think through this step by step.
+",D,D,D,True,0,"Let me think through this step by step.
 
 **Understanding the situation:**
 - Sodium chloride (NaCl) is being dissolved in distilled water
@@ -18335,7 +18335,7 @@ A. reactant
 B. product
 C. solute
 D. solvent
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -18355,7 +18355,7 @@ A. owls looking for food at night
 B. monarch butterflies migrating south
 C. cats pawing the area where they are going to sleep
 D. fish swimming to the top of an aquarium to get food
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -18372,7 +18372,7 @@ A. owls looking for food at night
 B. monarch butterflies migrating south
 C. cats pawing the area where they are going to sleep
 D. fish swimming to the top of an aquarium to get food
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -18392,7 +18392,7 @@ A. owls looking for food at night
 B. monarch butterflies migrating south
 C. cats pawing the area where they are going to sleep
 D. fish swimming to the top of an aquarium to get food
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -18412,7 +18412,7 @@ A. owls looking for food at night
 B. monarch butterflies migrating south
 C. cats pawing the area where they are going to sleep
 D. fish swimming to the top of an aquarium to get food
-",D,D,A,False,0,"A
+",D,D,D,True,0,"A
 
 Let me think through this step by step:
 
@@ -18430,7 +18430,7 @@ A. owls looking for food at night
 B. monarch butterflies migrating south
 C. cats pawing the area where they are going to sleep
 D. fish swimming to the top of an aquarium to get food
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -18452,7 +18452,7 @@ A. chemical
 B. mechanical
 C. radiant
 D. thermal
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -18469,7 +18469,7 @@ A. chemical
 B. mechanical
 C. radiant
 D. thermal
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -18491,7 +18491,7 @@ A. chemical
 B. mechanical
 C. radiant
 D. thermal
-",C,C,A,False,0,"**Answer: C**
+",C,C,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -18518,7 +18518,7 @@ A. chemical
 B. mechanical
 C. radiant
 D. thermal
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks what type of energy photosynthetic algae within coral reef tissues can use to survive.
 
@@ -18547,7 +18547,7 @@ A. chemical
 B. mechanical
 C. radiant
 D. thermal
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -18688,7 +18688,7 @@ A. begin to lose some of their atomic mass.
 B. break apart into individual water atoms.
 C. move more freely in relation to each other.
 D. release heat to the surrounding atmosphere.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 When ice melts at 0°C, the solid crystalline structure breaks down. Water molecules remain intact (ruling out B), but they transition from being rigidly fixed in place to having much greater freedom of movement. In the solid state, molecules vibrate in fixed positions; in the liquid state, they can move past each other more freely while maintaining hydrogen bonds.
 
@@ -18698,7 +18698,7 @@ A. begin to lose some of their atomic mass.
 B. break apart into individual water atoms.
 C. move more freely in relation to each other.
 D. release heat to the surrounding atmosphere.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -18724,7 +18724,7 @@ A. begin to lose some of their atomic mass.
 B. break apart into individual water atoms.
 C. move more freely in relation to each other.
 D. release heat to the surrounding atmosphere.
-",C,C,A,False,0,"**A**
+",C,C,C,True,0,"**A**
 
 Wait, let me reconsider this more carefully.
 
@@ -18744,7 +18744,7 @@ A. begin to lose some of their atomic mass.
 B. break apart into individual water atoms.
 C. move more freely in relation to each other.
 D. release heat to the surrounding atmosphere.
-",C,D,A,False,0,"**A**
+",C,D,C,True,0,"**A**
 
 Let me work through this step by step:
 
@@ -18770,7 +18770,7 @@ A. begin to lose some of their atomic mass.
 B. break apart into individual water atoms.
 C. move more freely in relation to each other.
 D. release heat to the surrounding atmosphere.
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait—let me reconsider this carefully, as instructed.
 
@@ -18920,7 +18920,7 @@ A. practical and economic
 B. economic and ecological
 C. ecological and ethical
 D. ethical and practical
-",C,A,A,False,0,"**Answer: C**
+",C,A,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -18940,7 +18940,7 @@ A. practical and economic
 B. economic and ecological
 C. ecological and ethical
 D. ethical and practical
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -18963,7 +18963,7 @@ A. practical and economic
 B. economic and ecological
 C. ecological and ethical
 D. ethical and practical
-",C,C,B,False,0,"Let me think through this step by step.
+",C,C,C,True,0,"Let me think through this step by step.
 
 The concern mentioned is about ""the effects the transgenic rice might have on native plants.""
 
@@ -18993,7 +18993,7 @@ A. practical and economic
 B. economic and ecological
 C. ecological and ethical
 D. ethical and practical
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The concern mentioned is specifically about ""the effects the transgenic rice might have on native plants.""
 
@@ -19019,7 +19019,7 @@ A. practical and economic
 B. economic and ecological
 C. ecological and ethical
 D. ethical and practical
-",C,E,A,False,0,"**B**
+",C,E,B,False,0,"**B**
 
 Wait, let me reconsider this carefully by pausing at the crucial distinction.
 
@@ -19038,7 +19038,7 @@ A. neutrons
 B. electrons
 C. protons
 D. nucleus
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 Electrons are negatively charged particles that are electrically attracted to positively charged particles. In an atom, electrons are attracted to protons (which are positively charged and located in the nucleus). Opposite charges attract each other, so negative electrons are drawn toward the positive charge of the protons."
@@ -19047,7 +19047,7 @@ A. neutrons
 B. electrons
 C. protons
 D. nucleus
-",B,B,A,False,0,"**B**
+",B,B,B,True,0,"**B**
 
 **Explanation:**
 
@@ -19067,7 +19067,7 @@ A. neutrons
 B. electrons
 C. protons
 D. nucleus
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -19084,7 +19084,7 @@ A. neutrons
 B. electrons
 C. protons
 D. nucleus
-",B,D,A,False,0,"Let me work through this step by step.
+",B,D,B,True,0,"Let me work through this step by step.
 
 **Understanding the question:**
 I need to identify which subatomic particles are electrically attracted to positively-charged particles.
@@ -19111,7 +19111,7 @@ A. neutrons
 B. electrons
 C. protons
 D. nucleus
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -19128,7 +19128,7 @@ A. use a new battery
 B. wear rubber gloves
 C. clean the electrical wire
 D. read all directions
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -19145,7 +19145,7 @@ A. use a new battery
 B. wear rubber gloves
 C. clean the electrical wire
 D. read all directions
-",D,B,A,False,0,"**Answer: D**
+",D,B,D,True,0,"**Answer: D**
 
 **Reasoning:**
 
@@ -19170,7 +19170,7 @@ A. use a new battery
 B. wear rubber gloves
 C. clean the electrical wire
 D. read all directions
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -19187,7 +19187,7 @@ A. use a new battery
 B. wear rubber gloves
 C. clean the electrical wire
 D. read all directions
-",D,D,A,False,0,"**D**
+",D,D,D,True,0,"**D**
 
 **Explanation:**
 
@@ -19205,7 +19205,7 @@ A. use a new battery
 B. wear rubber gloves
 C. clean the electrical wire
 D. read all directions
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -19300,7 +19300,7 @@ A. During a chemical reaction, the total amount of matter stays the same.
 B. During a chemical reaction, matter is destroyed.
 C. During a chemical reaction, one or more new substances are formed.
 D. During a chemical reaction, the total number of atoms increases.
-",A,D,B,False,0,"Let me think through this step by step.
+",A,D,A,True,0,"Let me think through this step by step.
 
 **Understanding the Law of Conservation of Mass:**
 The Law of Conservation of Mass states that matter cannot be created or destroyed in a chemical reaction. The total mass of reactants must equal the total mass of products.
@@ -19356,7 +19356,7 @@ A. type of plant
 B. amount of water
 C. amount of sunlight
 D. number of fruits
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -19371,7 +19371,7 @@ A. type of plant
 B. amount of water
 C. amount of sunlight
 D. number of fruits
-",D,B,A,False,0,"**Answer: D**
+",D,B,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -19396,7 +19396,7 @@ A. type of plant
 B. amount of water
 C. amount of sunlight
 D. number of fruits
-",D,C,A,False,0,"**Answer: D**
+",D,C,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -19418,7 +19418,7 @@ A. type of plant
 B. amount of water
 C. amount of sunlight
 D. number of fruits
-",D,D,A,False,0,"Let me work through this step by step.
+",D,D,D,True,0,"Let me work through this step by step.
 
 **Understanding Variables:**
 - Independent variable: What the experimenter changes/manipulates
@@ -19446,7 +19446,7 @@ A. type of plant
 B. amount of water
 C. amount of sunlight
 D. number of fruits
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -19464,7 +19464,7 @@ A. There is always more water in the morning.
 B. Smaller amounts of water evaporate in the cool morning.
 C. Water used in the morning can be recycled for afternoon use.
 D. Grass can absorb water only in the morning.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -19474,7 +19474,7 @@ A. There is always more water in the morning.
 B. Smaller amounts of water evaporate in the cool morning.
 C. Water used in the morning can be recycled for afternoon use.
 D. Grass can absorb water only in the morning.
-",B,B,A,False,0,"**A**
+",B,B,B,True,0,"**A**
 
 Let me work through this:
 
@@ -19499,7 +19499,7 @@ A. There is always more water in the morning.
 B. Smaller amounts of water evaporate in the cool morning.
 C. Water used in the morning can be recycled for afternoon use.
 D. Grass can absorb water only in the morning.
-",B,C,A,False,0,"**A**
+",B,C,B,True,0,"**A**
 
 Wait, let me reconsider this more carefully.
 
@@ -19523,7 +19523,7 @@ A. There is always more water in the morning.
 B. Smaller amounts of water evaporate in the cool morning.
 C. Water used in the morning can be recycled for afternoon use.
 D. Grass can absorb water only in the morning.
-",B,D,A,False,0,"**A**
+",B,D,B,True,0,"**A**
 
 Wait, let me reconsider this carefully.
 
@@ -19545,7 +19545,7 @@ A. There is always more water in the morning.
 B. Smaller amounts of water evaporate in the cool morning.
 C. Water used in the morning can be recycled for afternoon use.
 D. Grass can absorb water only in the morning.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -19577,7 +19577,7 @@ A. 1 (1A)
 B. 2 (2A)
 C. 16 (6A)
 D. 18 (8A)
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Step 1:** Argon (Ar) is a noble gas - it has a complete outer electron shell with 8 valence electrons.
 
@@ -19615,7 +19615,7 @@ A. 1 (1A)
 B. 2 (2A)
 C. 16 (6A)
 D. 18 (8A)
-",D,D,A,False,0,"Let me work through this step by step.
+",D,D,D,True,0,"Let me work through this step by step.
 
 Argon (Ar) is a noble gas. Noble gases are located in the rightmost column of the periodic table because they have a complete valence electron shell, making them chemically inert.
 
@@ -19635,7 +19635,7 @@ A. 1 (1A)
 B. 2 (2A)
 C. 16 (6A)
 D. 18 (8A)
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 Argon is a noble gas, and all noble gases are located in Group 18 (also called Group 8A in older notation systems). This is the rightmost column of the periodic table. Argon's electron configuration ([Ne]3s²3p⁶) shows it has a full outer electron shell, which is the defining characteristic of noble gases and places it in Group 18."
 arc,"A scientist lost the cap to an ammonia bottle, so she moved the ammonia into a clean container with a lid. What else should she do to be safe?
@@ -19643,7 +19643,7 @@ A. Recycle the old ammonia bottle.
 B. Label the new container clearly.
 C. Heat the new container to seal the lid.
 D. Store the new container in the refrigerator.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -19662,7 +19662,7 @@ A. Recycle the old ammonia bottle.
 B. Label the new container clearly.
 C. Heat the new container to seal the lid.
 D. Store the new container in the refrigerator.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -19683,7 +19683,7 @@ A. Recycle the old ammonia bottle.
 B. Label the new container clearly.
 C. Heat the new container to seal the lid.
 D. Store the new container in the refrigerator.
-",B,C,A,False,0,"**Answer: B**
+",B,C,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -19709,7 +19709,7 @@ A. Recycle the old ammonia bottle.
 B. Label the new container clearly.
 C. Heat the new container to seal the lid.
 D. Store the new container in the refrigerator.
-",B,D,A,False,0,"Let me think through this step by step.
+",B,D,B,True,0,"Let me think through this step by step.
 
 The scenario: A scientist lost a cap to an ammonia bottle and transferred the ammonia to a new container with a lid.
 
@@ -19738,7 +19738,7 @@ A. Recycle the old ammonia bottle.
 B. Label the new container clearly.
 C. Heat the new container to seal the lid.
 D. Store the new container in the refrigerator.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -19765,7 +19765,7 @@ A. pupa
 B. fetus
 C. embryo
 D. adult
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -19783,7 +19783,7 @@ A. pupa
 B. fetus
 C. embryo
 D. adult
-",C,B,B,False,0,"Let me work through this step by step.
+",C,B,C,True,0,"Let me work through this step by step.
 
 **Steps 1-2:**
 - An apple seed contains an embryonic plant (the embryo)
@@ -19809,7 +19809,7 @@ A. pupa
 B. fetus
 C. embryo
 D. adult
-",C,C,B,False,0,"Let me think through this step by step.
+",C,C,C,True,0,"Let me think through this step by step.
 
 First, let me consider what each option represents:
 - A pupa: This is a stage in insect metamorphosis (like butterflies/moths), not relevant to apple trees or chickens
@@ -19833,7 +19833,7 @@ A. pupa
 B. fetus
 C. embryo
 D. adult
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 First, let me consider what each term means:
 - **Pupa**: A stage in insect metamorphosis (not relevant to apple trees or chickens)
@@ -19862,7 +19862,7 @@ A. pupa
 B. fetus
 C. embryo
 D. adult
-",C,E,A,False,0,"**A: C**
+",C,E,C,True,0,"**A: C**
 
 **Explanation:**
 
@@ -19884,7 +19884,7 @@ A. the same species.
 B. the same genus.
 C. a different kingdom.
 D. a different phylum.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -19907,7 +19907,7 @@ A. the same species.
 B. the same genus.
 C. a different kingdom.
 D. a different phylum.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -19934,7 +19934,7 @@ A. the same species.
 B. the same genus.
 C. a different kingdom.
 D. a different phylum.
-",B,C,A,False,0,"Let me think through this step by step.
+",B,C,B,True,0,"Let me think through this step by step.
 
 **Analyzing what we know:**
 - Similar growth rates
@@ -19962,7 +19962,7 @@ A. the same species.
 B. the same genus.
 C. a different kingdom.
 D. a different phylum.
-",B,D,A,False,0,"Let me work through this step-by-step.
+",B,D,B,True,0,"Let me work through this step-by-step.
 
 **Understanding Taxonomic Classification:**
 The hierarchy from broadest to most specific is:
@@ -19999,7 +19999,7 @@ A. the same species.
 B. the same genus.
 C. a different kingdom.
 D. a different phylum.
-",B,E,A,False,0,"**D**
+",B,E,B,True,0,"**D**
 
 Wait—let me pause and reconsider this, because I'm about to make an assumption.
 
@@ -20019,7 +20019,7 @@ A. There is less condensation.
 B. There are fewer hurricanes.
 C. There is greater precipitation.
 D. There are more smog-filled areas.
-",C,A,A,False,0,"**Answer: C**
+",C,A,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -20040,7 +20040,7 @@ A. There is less condensation.
 B. There are fewer hurricanes.
 C. There is greater precipitation.
 D. There are more smog-filled areas.
-",C,B,A,False,0,"**A**
+",C,B,C,True,0,"**A**
 
 Let me work through this step by step.
 
@@ -20071,7 +20071,7 @@ A. There is less condensation.
 B. There are fewer hurricanes.
 C. There is greater precipitation.
 D. There are more smog-filled areas.
-",C,C,A,False,0,"**Answer: C**
+",C,C,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -20098,7 +20098,7 @@ A. There is less condensation.
 B. There are fewer hurricanes.
 C. There is greater precipitation.
 D. There are more smog-filled areas.
-",C,D,A,False,0,"Let me work through this step-by-step.
+",C,D,C,True,0,"Let me work through this step-by-step.
 
 **Understanding the premise:**
 - Winds blowing inland from oceans carry more moisture than winds over land
@@ -20133,7 +20133,7 @@ A. There is less condensation.
 B. There are fewer hurricanes.
 C. There is greater precipitation.
 D. There are more smog-filled areas.
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -20324,7 +20324,7 @@ A. scientific laws change often.
 B. scientific investigations are generally flawed.
 C. scientists may interpret data differently.
 D. scientists believe experiments should be repeated.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -20339,7 +20339,7 @@ A. scientific laws change often.
 B. scientific investigations are generally flawed.
 C. scientists may interpret data differently.
 D. scientists believe experiments should be repeated.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -20365,7 +20365,7 @@ A. scientific laws change often.
 B. scientific investigations are generally flawed.
 C. scientists may interpret data differently.
 D. scientists believe experiments should be repeated.
-",C,C,A,False,0,"**A**
+",C,C,C,True,0,"**A**
 
 Wait, let me reconsider this more carefully.
 
@@ -20389,7 +20389,7 @@ A. scientific laws change often.
 B. scientific investigations are generally flawed.
 C. scientists may interpret data differently.
 D. scientists believe experiments should be repeated.
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks why scientists don't always agree on conclusions even though they should base them on evidence.
 
@@ -20422,7 +20422,7 @@ A. scientific laws change often.
 B. scientific investigations are generally flawed.
 C. scientists may interpret data differently.
 D. scientists believe experiments should be repeated.
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait—let me pause and reconsider this properly.
 
@@ -20450,7 +20450,7 @@ A. Antibodies produce proteins that attach to an invading virus.
 B. Antibodies attach to an invading virus as a target marker.
 C. Antibodies engulf the invading virus as a defense mechanism.
 D. Antibodies release enzymes that lyse the invading virus.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -20469,7 +20469,7 @@ A. Antibodies produce proteins that attach to an invading virus.
 B. Antibodies attach to an invading virus as a target marker.
 C. Antibodies engulf the invading virus as a defense mechanism.
 D. Antibodies release enzymes that lyse the invading virus.
-",B,B,A,False,0,"**A**
+",B,B,B,True,0,"**A**
 
 Let me work through this step by step.
 
@@ -20501,7 +20501,7 @@ A. Antibodies produce proteins that attach to an invading virus.
 B. Antibodies attach to an invading virus as a target marker.
 C. Antibodies engulf the invading virus as a defense mechanism.
 D. Antibodies release enzymes that lyse the invading virus.
-",B,C,A,False,0,"# Step-by-Step Analysis
+",B,C,B,True,0,"# Step-by-Step Analysis
 
 Let me consider each immune function and what antibodies actually do:
 
@@ -20532,7 +20532,7 @@ A. Antibodies produce proteins that attach to an invading virus.
 B. Antibodies attach to an invading virus as a target marker.
 C. Antibodies engulf the invading virus as a defense mechanism.
 D. Antibodies release enzymes that lyse the invading virus.
-",B,D,A,False,0,"Let me think through each option carefully:
+",B,D,B,True,0,"Let me think through each option carefully:
 
 **A. Antibodies produce proteins that attach to an invading virus.**
 - Antibodies themselves ARE proteins (immunoglobulins). They don't produce other proteins. This is incorrect.
@@ -20554,7 +20554,7 @@ A. Antibodies produce proteins that attach to an invading virus.
 B. Antibodies attach to an invading virus as a target marker.
 C. Antibodies engulf the invading virus as a defense mechanism.
 D. Antibodies release enzymes that lyse the invading virus.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -20578,7 +20578,7 @@ A. The block will balance the forces.
 B. The forces will reverse direction.
 C. The mass of the block will change.
 D. The position of the block will change.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -20593,7 +20593,7 @@ A. The block will balance the forces.
 B. The forces will reverse direction.
 C. The mass of the block will change.
 D. The position of the block will change.
-",D,B,A,False,0,"**Answer: D**
+",D,B,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -20618,7 +20618,7 @@ A. The block will balance the forces.
 B. The forces will reverse direction.
 C. The mass of the block will change.
 D. The position of the block will change.
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -20642,7 +20642,7 @@ A. The block will balance the forces.
 B. The forces will reverse direction.
 C. The mass of the block will change.
 D. The position of the block will change.
-",D,D,B,False,0,"Let me think through this step by step.
+",D,D,D,True,0,"Let me think through this step by step.
 
 When two forces act in opposite directions on an object:
 - If forces are **balanced** (equal in magnitude), they cancel out and the object remains at rest or moves at constant velocity
@@ -20667,7 +20667,7 @@ A. The block will balance the forces.
 B. The forces will reverse direction.
 C. The mass of the block will change.
 D. The position of the block will change.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -20702,7 +20702,7 @@ A. cooking sugar on a stove
 B. pouring sugar through a screen
 C. dissolving a sugar cube in water
 D. crushing a sugar cube into pieces
-",A,B,B,False,0,"Let me work through this step by step.
+",A,B,A,True,0,"Let me work through this step by step.
 
 **Steps 1-2:**
 - A chemical change creates a new substance with different properties
@@ -20872,7 +20872,7 @@ A. Check the bread each day.
 B. Record the temperature of the bread.
 C. Measure the weight of the bread.
 D. Give the bread different amounts of light.
-",A,D,B,False,0,"Let me think through this step by step.
+",A,D,A,True,0,"Let me think through this step by step.
 
 The student's research question is: ""How long does it take mold to form on bread?""
 
@@ -21009,7 +21009,7 @@ A. 0%
 B. 25%
 C. 50%
 D. 100%
-",A,D,B,False,0,"Let me work through this genetics problem step by step.
+",A,D,A,True,0,"Let me work through this genetics problem step by step.
 
 **Given information:**
 - Parent 1: Brown eyes with genotype BB
@@ -21072,7 +21072,7 @@ A. increasing the number of pollock
 B. changing the diet of the sea lions
 C. improving the habitats of herring
 D. changing the location of the sea lions
-",C,A,A,False,0,"**Answer: C**
+",C,A,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -21098,7 +21098,7 @@ A. increasing the number of pollock
 B. changing the diet of the sea lions
 C. improving the habitats of herring
 D. changing the location of the sea lions
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -21123,7 +21123,7 @@ A. increasing the number of pollock
 B. changing the diet of the sea lions
 C. improving the habitats of herring
 D. changing the location of the sea lions
-",C,C,A,False,0,"**A**
+",C,C,C,True,0,"**A**
 
 Let me work through this step by step.
 
@@ -21149,7 +21149,7 @@ A. increasing the number of pollock
 B. changing the diet of the sea lions
 C. improving the habitats of herring
 D. changing the location of the sea lions
-",C,D,A,False,0,"**A**
+",C,D,C,True,0,"**A**
 
 Let me work through this step by step:
 
@@ -21174,7 +21174,7 @@ A. increasing the number of pollock
 B. changing the diet of the sea lions
 C. improving the habitats of herring
 D. changing the location of the sea lions
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait — let me pause here and reconsider this carefully, as I notice I'm making an assumption I should verify.
 
@@ -21196,7 +21196,7 @@ A. The parents are of a different genus and a different species.
 B. The parents are of a different species, but of the same genus.
 C. The parents are of the same genus and of the same species.
 D. The parents are of the same species, but of a different genus.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -21214,7 +21214,7 @@ A. The parents are of a different genus and a different species.
 B. The parents are of a different species, but of the same genus.
 C. The parents are of the same genus and of the same species.
 D. The parents are of the same species, but of a different genus.
-",B,B,A,False,0,"# Answer: B
+",B,B,B,True,0,"# Answer: B
 
 ## Explanation:
 
@@ -21240,7 +21240,7 @@ A. The parents are of a different genus and a different species.
 B. The parents are of a different species, but of the same genus.
 C. The parents are of the same genus and of the same species.
 D. The parents are of the same species, but of a different genus.
-",B,C,A,False,0,"A
+",B,C,B,True,0,"A
 
 **Explanation:**
 
@@ -21294,7 +21294,7 @@ A. The parents are of a different genus and a different species.
 B. The parents are of a different species, but of the same genus.
 C. The parents are of the same genus and of the same species.
 D. The parents are of the same species, but of a different genus.
-",B,E,A,False,0,"**A**
+",B,E,B,True,0,"**A**
 
 **Explanation:**
 
@@ -21356,7 +21356,7 @@ A. They can be measured.
 B. They are 100% efficient.
 C. They decrease at a constant rate.
 D. They result in decreases in usable energy.
-",D,B,A,False,0,"# Answer: D
+",D,B,D,True,0,"# Answer: D
 
 ## Explanation:
 
@@ -21402,7 +21402,7 @@ A. They can be measured.
 B. They are 100% efficient.
 C. They decrease at a constant rate.
 D. They result in decreases in usable energy.
-",D,D,A,False,0,"Let me work through each option:
+",D,D,D,True,0,"Let me work through each option:
 
 **A. They can be measured.**
 - Energy transfers can indeed be quantified and measured using various units (joules, calories, etc.)
@@ -21473,7 +21473,7 @@ A. The current will be tripled.
 B. The current will be doubled.
 C. The current will be cut in half.
 D. The current will stay the same.
-",C,B,A,False,0,"**C**
+",C,B,C,True,0,"**C**
 
 **Explanation:**
 
@@ -21499,7 +21499,7 @@ A. The current will be tripled.
 B. The current will be doubled.
 C. The current will be cut in half.
 D. The current will stay the same.
-",C,C,A,False,0,"**C**
+",C,C,C,True,0,"**C**
 
 **Explanation:**
 
@@ -21517,7 +21517,7 @@ A. The current will be tripled.
 B. The current will be doubled.
 C. The current will be cut in half.
 D. The current will stay the same.
-",C,D,A,False,0,"**C**
+",C,D,C,True,0,"**C**
 
 **Explanation:**
 
@@ -21539,7 +21539,7 @@ A. The current will be tripled.
 B. The current will be doubled.
 C. The current will be cut in half.
 D. The current will stay the same.
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -21560,7 +21560,7 @@ A. 1
 B. 2
 C. 3
 D. 4
-",D,A,A,False,0,"**B**
+",D,A,B,False,0,"**B**
 
 **Explanation:**
 
@@ -21598,7 +21598,7 @@ A. 1
 B. 2
 C. 3
 D. 4
-",D,B,A,False,0,"**Answer: B**
+",D,B,B,False,0,"**Answer: B**
 
 **Explanation:**
 
@@ -21635,7 +21635,7 @@ A. 1
 B. 2
 C. 3
 D. 4
-",D,C,A,False,0,"**Answer: B**
+",D,C,B,False,0,"**Answer: B**
 
 **Explanation:**
 
@@ -21678,7 +21678,7 @@ A. 1
 B. 2
 C. 3
 D. 4
-",D,D,A,False,0,"**A**
+",D,D,B,False,0,"**A**
 
 **Explanation:**
 
@@ -21719,7 +21719,7 @@ A. 1
 B. 2
 C. 3
 D. 4
-",D,E,A,False,0,"**B**
+",D,E,B,False,0,"**B**
 
 **Explanation:**
 
@@ -21759,7 +21759,7 @@ A. burn the materials in a bonfire
 B. take the materials to a landfill
 C. dump the materials in a trash bin
 D. sort the materials by plastics, papers, and cans
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 The first step in a recycling project is to sort the materials by type (plastics, papers, cans, etc.). This separation is essential because different materials require different recycling processes. Once sorted, the materials can then be properly collected and sent to appropriate recycling facilities. Options A, B, and C would defeat the purpose of recycling by destroying or wasting the materials rather than reusing them."
 arc,"What is most likely the first step for students to do for a recycling project?
@@ -21767,7 +21767,7 @@ A. burn the materials in a bonfire
 B. take the materials to a landfill
 C. dump the materials in a trash bin
 D. sort the materials by plastics, papers, and cans
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -21786,7 +21786,7 @@ A. burn the materials in a bonfire
 B. take the materials to a landfill
 C. dump the materials in a trash bin
 D. sort the materials by plastics, papers, and cans
-",D,C,B,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 Let me think through this step by step:
 
@@ -21803,7 +21803,7 @@ A. burn the materials in a bonfire
 B. take the materials to a landfill
 C. dump the materials in a trash bin
 D. sort the materials by plastics, papers, and cans
-",D,D,A,False,0,"Let me think through this step by step.
+",D,D,D,True,0,"Let me think through this step by step.
 
 A recycling project involves reusing or processing materials to reduce waste. Let me consider what would logically come first:
 
@@ -21823,7 +21823,7 @@ A. burn the materials in a bonfire
 B. take the materials to a landfill
 C. dump the materials in a trash bin
 D. sort the materials by plastics, papers, and cans
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -21845,7 +21845,7 @@ A. absorb minerals from the soil.
 B. change water vapor into a liquid.
 C. make sugar through photosynthesis.
 D. break down dead plant and animal matter.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:** Producers are organisms that create their own food through photosynthesis, converting sunlight, water, and carbon dioxide into sugar (glucose) and oxygen. This is their primary ecological function—they capture energy from the sun and make it available to the rest of the ecosystem.
 
@@ -21855,7 +21855,7 @@ A. absorb minerals from the soil.
 B. change water vapor into a liquid.
 C. make sugar through photosynthesis.
 D. break down dead plant and animal matter.
-",C,B,A,False,0,"**A**
+",C,B,C,True,0,"**A**
 
 Let me work through this:
 
@@ -21883,7 +21883,7 @@ A. absorb minerals from the soil.
 B. change water vapor into a liquid.
 C. make sugar through photosynthesis.
 D. break down dead plant and animal matter.
-",C,C,A,False,0,"**C**
+",C,C,C,True,0,"**C**
 
 **Explanation:**
 
@@ -21905,7 +21905,7 @@ A. absorb minerals from the soil.
 B. change water vapor into a liquid.
 C. make sugar through photosynthesis.
 D. break down dead plant and animal matter.
-",C,D,A,False,0,"A
+",C,D,C,True,0,"A
 
 Wait, let me reconsider this carefully.
 
@@ -21924,7 +21924,7 @@ A. absorb minerals from the soil.
 B. change water vapor into a liquid.
 C. make sugar through photosynthesis.
 D. break down dead plant and animal matter.
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait — let me reconsider this more carefully.
 
@@ -21945,7 +21945,7 @@ A. Pluto
 B. Saturn
 C. the Sun
 D. the Moon
-",C,A,A,False,0,"**D**
+",C,A,C,True,0,"**D**
 
 Wait, let me reconsider. Actually, the correct answer is **C**.
 
@@ -21955,7 +21955,7 @@ A. Pluto
 B. Saturn
 C. the Sun
 D. the Moon
-",C,B,A,False,0,"**D**
+",C,B,C,True,0,"**D**
 
 Wait, let me reconsider this.
 
@@ -21975,7 +21975,7 @@ A. Pluto
 B. Saturn
 C. the Sun
 D. the Moon
-",C,C,B,False,0,"Let me think through this step by step.
+",C,C,A,False,0,"Let me think through this step by step.
 
 First, I need to consider what ""a belt of asteroids"" means. The most famous asteroid belt in our solar system is the main asteroid belt located between Mars and Jupiter.
 
@@ -21997,7 +21997,7 @@ A. Pluto
 B. Saturn
 C. the Sun
 D. the Moon
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks which object is orbited by a belt of asteroids.
 
@@ -22023,7 +22023,7 @@ A. Pluto
 B. Saturn
 C. the Sun
 D. the Moon
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait, let me reconsider this carefully. I need to flag an assumption I'm making.
 
@@ -22049,7 +22049,7 @@ A. The tile floor is colder than the carpet.
 B. The tile floor conducts heat better than the carpet.
 C. The carpet conducts heat better than the tile floor.
 D. The tile floor is a better insulator than the carpet.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -22065,7 +22065,7 @@ A. The tile floor is colder than the carpet.
 B. The tile floor conducts heat better than the carpet.
 C. The carpet conducts heat better than the tile floor.
 D. The tile floor is a better insulator than the carpet.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -22088,7 +22088,7 @@ A. The tile floor is colder than the carpet.
 B. The tile floor conducts heat better than the carpet.
 C. The carpet conducts heat better than the tile floor.
 D. The tile floor is a better insulator than the carpet.
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -22138,7 +22138,7 @@ A. The tile floor is colder than the carpet.
 B. The tile floor conducts heat better than the carpet.
 C. The carpet conducts heat better than the tile floor.
 D. The tile floor is a better insulator than the carpet.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -22278,7 +22278,7 @@ A. They cool the land surface.
 B. They carry acids into the soil.
 C. They bring freshwater to land organisms.
 D. They build up mountains.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -22297,7 +22297,7 @@ A. They cool the land surface.
 B. They carry acids into the soil.
 C. They bring freshwater to land organisms.
 D. They build up mountains.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -22324,7 +22324,7 @@ A. They cool the land surface.
 B. They carry acids into the soil.
 C. They bring freshwater to land organisms.
 D. They build up mountains.
-",C,C,A,False,0,"**C**
+",C,C,C,True,0,"**C**
 
 **Explanation:**
 
@@ -22346,7 +22346,7 @@ A. They cool the land surface.
 B. They carry acids into the soil.
 C. They bring freshwater to land organisms.
 D. They build up mountains.
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks how rain and snow MOST support life on Earth.
 
@@ -22374,7 +22374,7 @@ A. They cool the land surface.
 B. They carry acids into the soil.
 C. They bring freshwater to land organisms.
 D. They build up mountains.
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait—let me pause and reconsider. I initially chose A, but I should verify this against the other options.
 
@@ -22395,7 +22395,7 @@ A. Rocks were dissolved by water.
 B. Lava deposited and then cooled.
 C. The remains of plants and animals were trapped.
 D. Air, water, and minerals combined.
-",C,A,A,False,0,"**Answer: C**
+",C,A,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -22410,7 +22410,7 @@ A. Rocks were dissolved by water.
 B. Lava deposited and then cooled.
 C. The remains of plants and animals were trapped.
 D. Air, water, and minerals combined.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -22431,7 +22431,7 @@ A. Rocks were dissolved by water.
 B. Lava deposited and then cooled.
 C. The remains of plants and animals were trapped.
 D. Air, water, and minerals combined.
-",C,C,A,False,0,"**A**
+",C,C,C,True,0,"**A**
 
 Wait, let me reconsider this carefully.
 
@@ -22450,7 +22450,7 @@ A. Rocks were dissolved by water.
 B. Lava deposited and then cooled.
 C. The remains of plants and animals were trapped.
 D. Air, water, and minerals combined.
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks what caused petroleum (gas and oil) deposits to form.
 
@@ -22478,7 +22478,7 @@ A. Rocks were dissolved by water.
 B. Lava deposited and then cooled.
 C. The remains of plants and animals were trapped.
 D. Air, water, and minerals combined.
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait—let me pause here and reconsider, as instructed.
 
@@ -22501,7 +22501,7 @@ A. most ozone.
 B. greatest density.
 C. highest altitude.
 D. coldest temperature.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -22520,7 +22520,7 @@ A. most ozone.
 B. greatest density.
 C. highest altitude.
 D. coldest temperature.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Step 1-2:**
 Let me consider what the troposphere actually is. The troposphere is the lowest layer of Earth's atmosphere, where weather occurs and where we live. 
@@ -22544,7 +22544,7 @@ A. most ozone.
 B. greatest density.
 C. highest altitude.
 D. coldest temperature.
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -22566,7 +22566,7 @@ A. most ozone.
 B. greatest density.
 C. highest altitude.
 D. coldest temperature.
-",B,D,A,False,0,"Let me think through each option:
+",B,D,B,True,0,"Let me think through each option:
 
 A. Most ozone - The ozone layer is primarily located in the stratosphere (above the troposphere), not the troposphere. ❌
 
@@ -22584,7 +22584,7 @@ A. most ozone.
 B. greatest density.
 C. highest altitude.
 D. coldest temperature.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -22604,7 +22604,7 @@ A. green vegetables
 B. dairy products
 C. lean meats
 D. whole grains
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 Dairy products are rich in vitamin D (especially fortified milk, yogurt, and cheese). Vitamin D is essential for calcium absorption, which is crucial for bone health and healing. Since Patrick broke his wrist, he needs vitamin D to help his bones heal properly."
 arc,"Patrick broke his wrist skateboarding. The doctor told Patrick to eat foods rich in vitamin D while his wrist heals. Which type of food will help Patrick's wrist heal?
@@ -22612,7 +22612,7 @@ A. green vegetables
 B. dairy products
 C. lean meats
 D. whole grains
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -22632,7 +22632,7 @@ A. green vegetables
 B. dairy products
 C. lean meats
 D. whole grains
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -22651,7 +22651,7 @@ A. green vegetables
 B. dairy products
 C. lean meats
 D. whole grains
-",B,D,A,False,0,"**B**
+",B,D,B,True,0,"**B**
 
 **Explanation:**
 
@@ -22672,7 +22672,7 @@ A. green vegetables
 B. dairy products
 C. lean meats
 D. whole grains
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -22692,7 +22692,7 @@ A. how each organism died
 B. the exact age of the fossils
 C. when the fossils were discovered
 D. the type of environment in which the organisms lived
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -22707,7 +22707,7 @@ A. how each organism died
 B. the exact age of the fossils
 C. when the fossils were discovered
 D. the type of environment in which the organisms lived
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -22729,7 +22729,7 @@ A. how each organism died
 B. the exact age of the fossils
 C. when the fossils were discovered
 D. the type of environment in which the organisms lived
-",D,C,A,False,0,"Let me work through this step by step.
+",D,C,D,True,0,"Let me work through this step by step.
 
 **What information can be directly observed from fossils themselves?**
 
@@ -22754,7 +22754,7 @@ A. how each organism died
 B. the exact age of the fossils
 C. when the fossils were discovered
 D. the type of environment in which the organisms lived
-",D,D,B,False,0,"Let me think through this step by step.
+",D,D,D,True,0,"Let me think through this step by step.
 
 The question states that students are observing two fossils found in **different rock layers**. I need to consider what can be determined from observing fossils themselves.
 
@@ -22783,7 +22783,7 @@ A. how each organism died
 B. the exact age of the fossils
 C. when the fossils were discovered
 D. the type of environment in which the organisms lived
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -22807,7 +22807,7 @@ A. 8:05 in the morning
 B. 12:05 in the afternoon
 C. 4:05 in the afternoon
 D. 7:05 in the evening
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -22824,7 +22824,7 @@ A. 8:05 in the morning
 B. 12:05 in the afternoon
 C. 4:05 in the afternoon
 D. 7:05 in the evening
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -22848,7 +22848,7 @@ A. 8:05 in the morning
 B. 12:05 in the afternoon
 C. 4:05 in the afternoon
 D. 7:05 in the evening
-",B,C,A,False,0,"**Answer: B**
+",B,C,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -22869,7 +22869,7 @@ A. 8:05 in the morning
 B. 12:05 in the afternoon
 C. 4:05 in the afternoon
 D. 7:05 in the evening
-",B,D,A,False,0,"Let me think through this step-by-step.
+",B,D,B,True,0,"Let me think through this step-by-step.
 
 **Shadow length depends on the sun's angle:**
 - When the sun is LOW on the horizon (early morning or evening), shadows are LONG
@@ -22893,7 +22893,7 @@ A. 8:05 in the morning
 B. 12:05 in the afternoon
 C. 4:05 in the afternoon
 D. 7:05 in the evening
-",B,E,A,False,0,"**A**
+",B,E,B,True,0,"**A**
 
 Wait — let me pause and reconsider this carefully.
 
@@ -22915,7 +22915,7 @@ A. is a hard mineral.
 B. was once a liquid.
 C. is an igneous rock.
 D. contains air pockets.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 Pumice floats because it contains air pockets. When magma is violently ejected from a volcano, gases become trapped within the cooling lava, creating numerous tiny air spaces throughout the rock. These air pockets make pumice less dense than water, allowing it to float. 
 
@@ -22930,7 +22930,7 @@ A. is a hard mineral.
 B. was once a liquid.
 C. is an igneous rock.
 D. contains air pockets.
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -22955,7 +22955,7 @@ A. is a hard mineral.
 B. was once a liquid.
 C. is an igneous rock.
 D. contains air pockets.
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -22979,7 +22979,7 @@ A. is a hard mineral.
 B. was once a liquid.
 C. is an igneous rock.
 D. contains air pockets.
-",D,D,B,False,0,"Let me think through this step by step.
+",D,D,D,True,0,"Let me think through this step by step.
 
 The question asks why pumice is the only rock that floats.
 
@@ -23001,7 +23001,7 @@ A. is a hard mineral.
 B. was once a liquid.
 C. is an igneous rock.
 D. contains air pockets.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -23025,7 +23025,7 @@ A. research
 B. interviews
 C. observation
 D. measurement
-",C,A,A,False,0,"**B**
+",C,A,D,False,0,"**B**
 
 Wait, let me reconsider.
 
@@ -23038,7 +23038,7 @@ A. research
 B. interviews
 C. observation
 D. measurement
-",C,B,A,False,0,"**Answer: D**
+",C,B,D,False,0,"**Answer: D**
 
 **Explanation:**
 
@@ -23062,7 +23062,7 @@ A. research
 B. interviews
 C. observation
 D. measurement
-",C,C,A,False,0,"**A** - Wait, let me reconsider this.
+",C,C,D,False,0,"**A** - Wait, let me reconsider this.
 
 Actually, the best answer is **D. measurement**
 
@@ -23081,7 +23081,7 @@ A. research
 B. interviews
 C. observation
 D. measurement
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks which method a student would use to collect data about which colors of light are refracted by a prism.
 
@@ -23105,7 +23105,7 @@ A. research
 B. interviews
 C. observation
 D. measurement
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait — let me pause here. I need to reconsider this carefully.
 
@@ -23136,7 +23136,7 @@ A. Earth revolves around the Sun.
 B. Earth rotates on its axis.
 C. The Sun rotates on its axis.
 D. The Moon revolves around Earth.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -23151,7 +23151,7 @@ A. Earth revolves around the Sun.
 B. Earth rotates on its axis.
 C. The Sun rotates on its axis.
 D. The Moon revolves around Earth.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -23179,7 +23179,7 @@ A. Earth revolves around the Sun.
 B. Earth rotates on its axis.
 C. The Sun rotates on its axis.
 D. The Moon revolves around Earth.
-",B,C,A,False,0,"**Pause and reflect:** The question is asking why it's daytime on one side of Earth while it's nighttime on the other side at the same moment in time. This is about the difference in sunlight exposure between two locations on Earth.
+",B,C,B,True,0,"**Pause and reflect:** The question is asking why it's daytime on one side of Earth while it's nighttime on the other side at the same moment in time. This is about the difference in sunlight exposure between two locations on Earth.
 
 - Option A (Earth's revolution around the Sun) causes seasons, not day/night cycles.
 - Option B (Earth's rotation on its axis) causes different parts of Earth to face toward or away from the Sun at different times.
@@ -23218,7 +23218,7 @@ A. Earth revolves around the Sun.
 B. Earth rotates on its axis.
 C. The Sun rotates on its axis.
 D. The Moon revolves around Earth.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -23237,7 +23237,7 @@ A. carbon dioxide and nitrogen
 B. sugar and carbon dioxide
 C. oxygen and nitrogen
 D. sugar and oxygen
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 Photosynthesis is the process where plants use sunlight, water, and carbon dioxide to create energy. The products are sugar (glucose), which the plant uses for energy and growth, and oxygen, which is released as a byproduct. The equation is:
 
@@ -23247,7 +23247,7 @@ A. carbon dioxide and nitrogen
 B. sugar and carbon dioxide
 C. oxygen and nitrogen
 D. sugar and oxygen
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -23288,7 +23288,7 @@ A. carbon dioxide and nitrogen
 B. sugar and carbon dioxide
 C. oxygen and nitrogen
 D. sugar and oxygen
-",D,D,B,False,0,"Let me think through this step by step.
+",D,D,D,True,0,"Let me think through this step by step.
 
 Photosynthesis is the process where plants use light energy to convert raw materials into products.
 
@@ -23318,7 +23318,7 @@ A. carbon dioxide and nitrogen
 B. sugar and carbon dioxide
 C. oxygen and nitrogen
 D. sugar and oxygen
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -23339,7 +23339,7 @@ arc,"Which factor would most likely limit the number of mice living in an area?
 2. stable climate
 3. more predators
 4. less competition
-",3,A,A,False,0,"**C**
+",3,A,C,False,0,"**C**
 
 **Explanation:**
 
@@ -23356,7 +23356,7 @@ arc,"Which factor would most likely limit the number of mice living in an area?
 2. stable climate
 3. more predators
 4. less competition
-",3,B,A,False,0,"# Answer: C
+",3,B,C,False,0,"# Answer: C
 
 **Explanation:**
 
@@ -23376,7 +23376,7 @@ arc,"Which factor would most likely limit the number of mice living in an area?
 2. stable climate
 3. more predators
 4. less competition
-",3,C,A,False,0,"A
+",3,C,C,False,0,"A
 
 **Explanation:**
 
@@ -23403,7 +23403,7 @@ arc,"Which factor would most likely limit the number of mice living in an area?
 2. stable climate
 3. more predators
 4. less competition
-",3,D,A,False,0,"Let me think through each factor:
+",3,D,C,False,0,"Let me think through each factor:
 
 1. **Plentiful resources** - This would INCREASE the mouse population (more food = more mice can survive)
 
@@ -23425,7 +23425,7 @@ arc,"Which factor would most likely limit the number of mice living in an area?
 2. stable climate
 3. more predators
 4. less competition
-",3,E,A,False,0,"**D**
+",3,E,D,False,0,"**D**
 
 **Explanation:**
 
@@ -23554,7 +23554,7 @@ A. record the numbers of leaves in a data table
 B. photograph each leaf type using a camera
 C. record the sizes of different leaves in a notebook
 D. calculate the percentages of all leaf types using a calculator
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -23571,7 +23571,7 @@ A. record the numbers of leaves in a data table
 B. photograph each leaf type using a camera
 C. record the sizes of different leaves in a notebook
 D. calculate the percentages of all leaf types using a calculator
-",B,B,A,False,0,"# Answer: B
+",B,B,B,True,0,"# Answer: B
 
 ## Explanation:
 
@@ -23663,7 +23663,7 @@ A. record the numbers of leaves in a data table
 B. photograph each leaf type using a camera
 C. record the sizes of different leaves in a notebook
 D. calculate the percentages of all leaf types using a calculator
-",B,E,A,False,0,"**A**
+",B,E,B,True,0,"**A**
 
 Wait — let me pause here. I need to reconsider what ""most accurate way to record differences in shapes"" actually means.
 
@@ -23787,7 +23787,7 @@ A. They have each lost kinetic energy.
 B. They have each gained the same amount of potential energy.
 C. They have each lost the same amount of potential energy.
 D. They have each gained one-half of their maximum kinetic energy.
-",D,A,A,False,0,"**C**
+",D,A,C,False,0,"**C**
 
 **Explanation:**
 
@@ -23818,7 +23818,7 @@ A. They have each lost kinetic energy.
 B. They have each gained the same amount of potential energy.
 C. They have each lost the same amount of potential energy.
 D. They have each gained one-half of their maximum kinetic energy.
-",D,B,A,False,0,"**Answer: C**
+",D,B,C,False,0,"**Answer: C**
 
 **Explanation:**
 
@@ -23850,7 +23850,7 @@ A. They have each lost kinetic energy.
 B. They have each gained the same amount of potential energy.
 C. They have each lost the same amount of potential energy.
 D. They have each gained one-half of their maximum kinetic energy.
-",D,C,A,False,0,"**C**
+",D,C,C,False,0,"**C**
 
 **Explanation:**
 
@@ -23891,7 +23891,7 @@ A. They have each lost kinetic energy.
 B. They have each gained the same amount of potential energy.
 C. They have each lost the same amount of potential energy.
 D. They have each gained one-half of their maximum kinetic energy.
-",D,D,A,False,0,"I need to analyze what happens to both objects as they fall 1.0 m on the Moon.
+",D,D,D,True,0,"I need to analyze what happens to both objects as they fall 1.0 m on the Moon.
 
 **Given information:**
 - Object 1: mass = 1.0 kg
@@ -23941,7 +23941,7 @@ A. They have each lost kinetic energy.
 B. They have each gained the same amount of potential energy.
 C. They have each lost the same amount of potential energy.
 D. They have each gained one-half of their maximum kinetic energy.
-",D,E,C,False,0,"C
+",D,E,D,True,0,"C
 
 **Explanation:**
 
@@ -23992,7 +23992,7 @@ A. Different predictions about the chemical were made.
 B. Tests performed on the chemical had different results.
 C. Repeated tests on the chemical reached the same conclusion.
 D. Different procedures were used to test the properties of the chemical.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -24006,7 +24006,7 @@ A. Different predictions about the chemical were made.
 B. Tests performed on the chemical had different results.
 C. Repeated tests on the chemical reached the same conclusion.
 D. Different procedures were used to test the properties of the chemical.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -24036,7 +24036,7 @@ A. Different predictions about the chemical were made.
 B. Tests performed on the chemical had different results.
 C. Repeated tests on the chemical reached the same conclusion.
 D. Different procedures were used to test the properties of the chemical.
-",C,C,A,False,0,"**C**
+",C,C,C,True,0,"**C**
 
 **Explanation:**
 
@@ -24058,7 +24058,7 @@ A. Different predictions about the chemical were made.
 B. Tests performed on the chemical had different results.
 C. Repeated tests on the chemical reached the same conclusion.
 D. Different procedures were used to test the properties of the chemical.
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks how the scientific process helped scientists understand that DDT was harmful to birds.
 
@@ -24087,7 +24087,7 @@ A. Different predictions about the chemical were made.
 B. Tests performed on the chemical had different results.
 C. Repeated tests on the chemical reached the same conclusion.
 D. Different procedures were used to test the properties of the chemical.
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -24113,7 +24113,7 @@ A. economic
 B. biological
 C. ethical
 D. practical
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -24130,7 +24130,7 @@ A. economic
 B. biological
 C. ethical
 D. practical
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -24155,7 +24155,7 @@ A. economic
 B. biological
 C. ethical
 D. practical
-",C,C,B,False,0,"Let me think through this step by step.
+",C,C,C,True,0,"Let me think through this step by step.
 
 The question asks what word best describes the concern that ""it is not right to add genes from one animal to another.""
 
@@ -24179,7 +24179,7 @@ A. economic
 B. biological
 C. ethical
 D. practical
-",C,D,B,False,0,"Let me work through this step by step.
+",C,D,C,True,0,"Let me work through this step by step.
 
 The question asks what word best describes the concern about inserting spider genes into goats.
 
@@ -24203,7 +24203,7 @@ A. economic
 B. biological
 C. ethical
 D. practical
-",C,E,A,False,0,"**D**
+",C,E,C,True,0,"**D**
 
 Wait—let me pause here and reconsider. I initially chose D, but I need to flag something.
 
@@ -24225,7 +24225,7 @@ A. use water and release carbon
 B. use sugar and release carbon
 C. use carbon and release oxygen
 D. use carbon and release nitrogen
-",B,A,A,False,0,"**C**
+",B,A,C,False,0,"**C**
 
 **Explanation:**
 
@@ -24244,7 +24244,7 @@ A. use water and release carbon
 B. use sugar and release carbon
 C. use carbon and release oxygen
 D. use carbon and release nitrogen
-",B,B,A,False,0,"# Answer: C
+",B,B,C,False,0,"# Answer: C
 
 ## Explanation:
 
@@ -24264,7 +24264,7 @@ A. use water and release carbon
 B. use sugar and release carbon
 C. use carbon and release oxygen
 D. use carbon and release nitrogen
-",B,C,A,False,0,"**C**
+",B,C,C,False,0,"**C**
 
 **Explanation:**
 
@@ -24291,7 +24291,7 @@ A. use water and release carbon
 B. use sugar and release carbon
 C. use carbon and release oxygen
 D. use carbon and release nitrogen
-",B,D,A,False,0,"Let me think through this step by step.
+",B,D,C,False,0,"Let me think through this step by step.
 
 The carbon cycle involves the movement of carbon between the atmosphere, organisms, and the earth. Let me consider what plants do:
 
@@ -24325,7 +24325,7 @@ A. use water and release carbon
 B. use sugar and release carbon
 C. use carbon and release oxygen
 D. use carbon and release nitrogen
-",B,E,A,False,0,"**C**
+",B,E,C,False,0,"**C**
 
 **Explanation:**
 
@@ -24368,7 +24368,7 @@ A. Release sterile moths to limit reproduction.
 B. Use widespread spraying of insecticides.
 C. Introduce a predator of the cacti.
 D. Stop importation of all types of plants.
-",A,B,B,False,0,"Let me work through this step by step.
+",A,B,A,True,0,"Let me work through this step by step.
 
 **Step 1:** What is the problem?
 - The cactus moth population is growing and causing damage to native plants (semaphore cacti and others) in the Florida Keys.
@@ -24400,7 +24400,7 @@ A. Release sterile moths to limit reproduction.
 B. Use widespread spraying of insecticides.
 C. Introduce a predator of the cacti.
 D. Stop importation of all types of plants.
-",A,C,B,False,0,"Let me think through this step by step.
+",A,C,A,True,0,"Let me think through this step by step.
 
 The problem: Cactus moth population is growing in Florida Keys and threatening native plants (semaphore cacti and now other plants).
 
@@ -24497,7 +24497,7 @@ A. using larger screens with better color.
 B. explaining how to avoid pressure from commercials.
 C. providing a setting that encourages people to exercise more.
 D. warning people of dangers such as bad weather or accidents.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 Television has improved safety by warning people of dangers such as bad weather or accidents. Weather alerts, emergency broadcasts, and news coverage of hazardous conditions help people prepare for and avoid dangerous situations. This is a direct safety benefit.
 
@@ -24510,7 +24510,7 @@ A. using larger screens with better color.
 B. explaining how to avoid pressure from commercials.
 C. providing a setting that encourages people to exercise more.
 D. warning people of dangers such as bad weather or accidents.
-",D,B,A,False,0,"**Answer: D**
+",D,B,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -24534,7 +24534,7 @@ A. using larger screens with better color.
 B. explaining how to avoid pressure from commercials.
 C. providing a setting that encourages people to exercise more.
 D. warning people of dangers such as bad weather or accidents.
-",D,C,B,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 Let me think through this step by step:
 
@@ -24554,7 +24554,7 @@ A. using larger screens with better color.
 B. explaining how to avoid pressure from commercials.
 C. providing a setting that encourages people to exercise more.
 D. warning people of dangers such as bad weather or accidents.
-",D,D,A,False,0,"Let me think through each option:
+",D,D,D,True,0,"Let me think through each option:
 
 A. Using larger screens with better color - This is about television technology improvements, not safety. Better screens don't inherently improve safety.
 
@@ -24572,7 +24572,7 @@ A. using larger screens with better color.
 B. explaining how to avoid pressure from commercials.
 C. providing a setting that encourages people to exercise more.
 D. warning people of dangers such as bad weather or accidents.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -24592,7 +24592,7 @@ A. proton
 B. isotope
 C. nucleus
 D. electron
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 An isotope is not a *part* of an atom—it is a *type* of atom. An isotope refers to a variant of an element that has a different number of neutrons, resulting in different mass numbers.
 
@@ -24629,7 +24629,7 @@ A. proton
 B. isotope
 C. nucleus
 D. electron
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -24647,7 +24647,7 @@ A. proton
 B. isotope
 C. nucleus
 D. electron
-",B,D,A,False,0,"Let me work through this step by step.
+",B,D,B,True,0,"Let me work through this step by step.
 
 An atom consists of:
 - A nucleus (containing protons and neutrons)
@@ -24671,7 +24671,7 @@ A. proton
 B. isotope
 C. nucleus
 D. electron
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -24685,7 +24685,7 @@ A. The winner experienced less water resistance.
 B. There was more gravitational pull on the winner.
 C. Friction slowed down the second place swimmer.
 D. There was more force in the winner's kicks and strokes.
-",B,A,A,False,0,"**A**
+",B,A,B,True,0,"**A**
 
 Explanation: Option B is the correct answer to your question about which sentence could NOT explain the speed difference.
 
@@ -24729,7 +24729,7 @@ A. The winner experienced less water resistance.
 B. There was more gravitational pull on the winner.
 C. Friction slowed down the second place swimmer.
 D. There was more force in the winner's kicks and strokes.
-",B,C,A,False,0,"# A
+",B,C,B,True,0,"# A
 
 Let me work through this step by step.
 
@@ -24748,7 +24748,7 @@ A. The winner experienced less water resistance.
 B. There was more gravitational pull on the winner.
 C. Friction slowed down the second place swimmer.
 D. There was more force in the winner's kicks and strokes.
-",B,D,A,False,0,"Let me think through each option:
+",B,D,B,True,0,"Let me think through each option:
 
 **A. The winner experienced less water resistance.**
 - This COULD explain why the winner was faster. Less resistance = easier to move through water = faster speed. ✓
@@ -24770,7 +24770,7 @@ A. The winner experienced less water resistance.
 B. There was more gravitational pull on the winner.
 C. Friction slowed down the second place swimmer.
 D. There was more force in the winner's kicks and strokes.
-",B,E,A,False,0,"**A**
+",B,E,D,False,0,"**A**
 
 **Explanation:**
 
@@ -24793,7 +24793,7 @@ A. make a graph.
 B. write a report.
 C. use a different procedure.
 D. repeat the same procedure.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -24815,7 +24815,7 @@ A. make a graph.
 B. write a report.
 C. use a different procedure.
 D. repeat the same procedure.
-",D,B,B,False,0,"Let me work through this step by step.
+",D,B,D,True,0,"Let me work through this step by step.
 
 **Steps 1-2:** What does ""reliable"" mean in scientific context?
 - Reliable means the results are consistent, reproducible, and trustworthy
@@ -24845,7 +24845,7 @@ A. make a graph.
 B. write a report.
 C. use a different procedure.
 D. repeat the same procedure.
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -24864,7 +24864,7 @@ A. make a graph.
 B. write a report.
 C. use a different procedure.
 D. repeat the same procedure.
-",D,D,A,False,0,"**Answer: D**
+",D,D,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -24886,7 +24886,7 @@ A. make a graph.
 B. write a report.
 C. use a different procedure.
 D. repeat the same procedure.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -24908,7 +24908,7 @@ A. the speed
 B. the position
 C. the direction
 D. the acceleration
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -24926,7 +24926,7 @@ A. the speed
 B. the position
 C. the direction
 D. the acceleration
-",B,B,A,False,0,"**Answer: C**
+",B,B,C,False,0,"**Answer: C**
 
 **Explanation:**
 
@@ -24952,7 +24952,7 @@ A. the speed
 B. the position
 C. the direction
 D. the acceleration
-",B,C,A,False,0,"**Answer: C**
+",B,C,B,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -25001,7 +25001,7 @@ A. the speed
 B. the position
 C. the direction
 D. the acceleration
-",B,E,A,False,0,"**C**
+",B,E,B,True,0,"**C**
 
 **Explanation:**
 
@@ -25035,7 +25035,7 @@ A. to decompose.
 B. to pollinate flowers.
 C. to recycle nutrients in the soil.
 D. to collect acorns and bury them in the soil.
-",D,A,A,False,0,"**A**
+",D,A,D,True,0,"**A**
 
 Wait, let me reconsider. The correct answer is **D**.
 
@@ -25054,7 +25054,7 @@ A. to decompose.
 B. to pollinate flowers.
 C. to recycle nutrients in the soil.
 D. to collect acorns and bury them in the soil.
-",D,B,A,False,0,"**Answer: D**
+",D,B,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -25079,7 +25079,7 @@ A. to decompose.
 B. to pollinate flowers.
 C. to recycle nutrients in the soil.
 D. to collect acorns and bury them in the soil.
-",D,C,A,False,0,"**A**
+",D,C,D,True,0,"**A**
 
 Wait, let me reconsider this carefully.
 
@@ -25102,7 +25102,7 @@ A. to decompose.
 B. to pollinate flowers.
 C. to recycle nutrients in the soil.
 D. to collect acorns and bury them in the soil.
-",D,D,A,False,0,"Let me think through this step by step.
+",D,D,D,True,0,"Let me think through this step by step.
 
 A niche refers to the specific role and position an organism has in its environment - essentially what it does and how it interacts with other organisms and the physical environment.
 
@@ -25124,7 +25124,7 @@ A. to decompose.
 B. to pollinate flowers.
 C. to recycle nutrients in the soil.
 D. to collect acorns and bury them in the soil.
-",D,E,A,False,0,"**A**
+",D,E,D,True,0,"**A**
 
 Wait — let me pause and reconsider this carefully.
 
@@ -25147,7 +25147,7 @@ A. to help scientists in conservation efforts
 B. to determine the geographical habitats of all organisms
 C. to have a consistent definition for all scientists
 D. to understand the role of organisms in a food web
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -25163,7 +25163,7 @@ A. to help scientists in conservation efforts
 B. to determine the geographical habitats of all organisms
 C. to have a consistent definition for all scientists
 D. to understand the role of organisms in a food web
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -25188,7 +25188,7 @@ A. to help scientists in conservation efforts
 B. to determine the geographical habitats of all organisms
 C. to have a consistent definition for all scientists
 D. to understand the role of organisms in a food web
-",C,C,A,False,0,"**C**
+",C,C,C,True,0,"**C**
 
 **Explanation:**
 
@@ -25212,7 +25212,7 @@ A. to help scientists in conservation efforts
 B. to determine the geographical habitats of all organisms
 C. to have a consistent definition for all scientists
 D. to understand the role of organisms in a food web
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks what is the importance of having a **standardized taxonomic classification system** specifically for **determining the relatedness of organisms**.
 
@@ -25242,7 +25242,7 @@ A. to help scientists in conservation efforts
 B. to determine the geographical habitats of all organisms
 C. to have a consistent definition for all scientists
 D. to understand the role of organisms in a food web
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -25264,7 +25264,7 @@ A. Report spills to your teacher immediately.
 B. Wear a protective eye shield.
 C. Pay close attention to instructions.
 D. Smell the chemicals that are being mixed.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -25284,7 +25284,7 @@ A. Report spills to your teacher immediately.
 B. Wear a protective eye shield.
 C. Pay close attention to instructions.
 D. Smell the chemicals that are being mixed.
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -25305,7 +25305,7 @@ A. Report spills to your teacher immediately.
 B. Wear a protective eye shield.
 C. Pay close attention to instructions.
 D. Smell the chemicals that are being mixed.
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -25325,7 +25325,7 @@ A. Report spills to your teacher immediately.
 B. Wear a protective eye shield.
 C. Pay close attention to instructions.
 D. Smell the chemicals that are being mixed.
-",D,D,A,False,0,"A
+",D,D,D,True,0,"A
 
 **Explanation:**
 
@@ -25352,7 +25352,7 @@ A. Report spills to your teacher immediately.
 B. Wear a protective eye shield.
 C. Pay close attention to instructions.
 D. Smell the chemicals that are being mixed.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -25373,7 +25373,7 @@ A. 12.5 years
 B. 125 years
 C. 125,000 years
 D. 125,000,000 years
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -25385,7 +25385,7 @@ A. 12.5 years
 B. 125 years
 C. 125,000 years
 D. 125,000,000 years
-",C,B,A,False,0,"# Answer: C
+",C,B,C,True,0,"# Answer: C
 
 ## Explanation:
 
@@ -25409,7 +25409,7 @@ A. 12.5 years
 B. 125 years
 C. 125,000 years
 D. 125,000,000 years
-",C,C,A,False,0,"**A**
+",C,C,C,True,0,"**A**
 
 Wait, let me pause and reconsider this carefully.
 
@@ -25425,7 +25425,7 @@ A. 12.5 years
 B. 125 years
 C. 125,000 years
 D. 125,000,000 years
-",C,D,A,False,0,"Let me work through this step by step.
+",C,D,C,True,0,"Let me work through this step by step.
 
 **Understanding the definition:**
 - A light-year is the distance light travels in one year
@@ -25450,7 +25450,7 @@ A. 12.5 years
 B. 125 years
 C. 125,000 years
 D. 125,000,000 years
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -25472,7 +25472,7 @@ A. Minerals are made of rocks.
 B. Crystals are made of rocks.
 C. Rocks are made of one or more minerals.
 D. Magma is made of solid rock.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -25487,7 +25487,7 @@ A. Minerals are made of rocks.
 B. Crystals are made of rocks.
 C. Rocks are made of one or more minerals.
 D. Magma is made of solid rock.
-",C,B,A,False,0,"**C**
+",C,B,C,True,0,"**C**
 
 **Explanation:**
 
@@ -25509,7 +25509,7 @@ A. Minerals are made of rocks.
 B. Crystals are made of rocks.
 C. Rocks are made of one or more minerals.
 D. Magma is made of solid rock.
-",C,C,A,False,0,"**C**
+",C,C,C,True,0,"**C**
 
 **Explanation:**
 
@@ -25527,7 +25527,7 @@ A. Minerals are made of rocks.
 B. Crystals are made of rocks.
 C. Rocks are made of one or more minerals.
 D. Magma is made of solid rock.
-",C,D,A,False,0,"Let me think through each option:
+",C,D,C,True,0,"Let me think through each option:
 
 **A. Minerals are made of rocks.**
 - False. This is backwards. Minerals are inorganic solids with a crystalline structure. Rocks are made FROM minerals, not the other way around.
@@ -25549,7 +25549,7 @@ A. Minerals are made of rocks.
 B. Crystals are made of rocks.
 C. Rocks are made of one or more minerals.
 D. Magma is made of solid rock.
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -25683,7 +25683,7 @@ A. always much closer to the Sun than it is to the Earth
 B. always much closer to the Earth than it is to the Sun
 C. about the same distance from the Sun as it is from the Earth
 D. sometimes closer to the Sun than it is to the Earth and sometimes closer to the Earth than it is to the Sun
-",B,B,A,False,0,"# Step 1 & 2: Establish the basic distances
+",B,B,B,True,0,"# Step 1 & 2: Establish the basic distances
 
 The Earth-Moon distance is approximately 384,400 km.
 The Earth-Sun distance is approximately 149,600,000 km.
@@ -25708,7 +25708,7 @@ A. always much closer to the Sun than it is to the Earth
 B. always much closer to the Earth than it is to the Sun
 C. about the same distance from the Sun as it is from the Earth
 D. sometimes closer to the Sun than it is to the Earth and sometimes closer to the Earth than it is to the Sun
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -25763,7 +25763,7 @@ A. always much closer to the Sun than it is to the Earth
 B. always much closer to the Earth than it is to the Sun
 C. about the same distance from the Sun as it is from the Earth
 D. sometimes closer to the Sun than it is to the Earth and sometimes closer to the Earth than it is to the Sun
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -25787,7 +25787,7 @@ A. glass
 B. metal
 C. water
 D. wood
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 Wood is the best heat insulator among these options because it has low thermal conductivity. Wood contains air pockets within its cellular structure, and air is an excellent insulator. This is why wood is commonly used for handles on cookware and in building insulation.
 
@@ -25800,7 +25800,7 @@ A. glass
 B. metal
 C. water
 D. wood
-",D,B,A,False,0,"Let me work through this systematically.
+",D,B,D,True,0,"Let me work through this systematically.
 
 **Step 1-2: Define heat insulation**
 A good heat insulator resists heat transfer (has low thermal conductivity). Poor conductors of heat are better insulators.
@@ -25826,7 +25826,7 @@ A. glass
 B. metal
 C. water
 D. wood
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -25846,7 +25846,7 @@ A. glass
 B. metal
 C. water
 D. wood
-",D,D,A,False,0,"Let me think through the heat insulation properties of each material:
+",D,D,D,True,0,"Let me think through the heat insulation properties of each material:
 
 **Glass:** Poor insulator - conducts heat relatively well, which is why windows lose heat
 **Metal:** Poor insulator - excellent conductor of heat (opposite of what we want)
@@ -25885,7 +25885,7 @@ A. The ball accelerated.
 B. The ball did not move.
 C. The ball changed direction.
 D. The ball continued to move in the same direction.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -25904,7 +25904,7 @@ A. The ball accelerated.
 B. The ball did not move.
 C. The ball changed direction.
 D. The ball continued to move in the same direction.
-",D,B,A,False,0,"**Answer: D**
+",D,B,D,True,0,"**Answer: D**
 
 **Explanation:**
 
@@ -25931,7 +25931,7 @@ A. The ball accelerated.
 B. The ball did not move.
 C. The ball changed direction.
 D. The ball continued to move in the same direction.
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -25955,7 +25955,7 @@ A. The ball accelerated.
 B. The ball did not move.
 C. The ball changed direction.
 D. The ball continued to move in the same direction.
-",D,D,B,False,0,"Let me think through this step-by-step.
+",D,D,D,True,0,"Let me think through this step-by-step.
 
 **Given information:**
 - The ball is on a flat, frictionless surface
@@ -25987,7 +25987,7 @@ A. The ball accelerated.
 B. The ball did not move.
 C. The ball changed direction.
 D. The ball continued to move in the same direction.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -26030,7 +26030,7 @@ A. repeating the experiment three times
 B. experimenting with multiple substances
 C. writing out the procedure after the experiment
 D. using three types of thermometers in the experiment
-",A,B,B,False,0,"Let me work through this step by step.
+",A,B,A,True,0,"Let me work through this step by step.
 
 **Steps 1-2: Understanding what increases accuracy**
 
@@ -26083,7 +26083,7 @@ A. repeating the experiment three times
 B. experimenting with multiple substances
 C. writing out the procedure after the experiment
 D. using three types of thermometers in the experiment
-",A,D,B,False,0,"Let me work through this step-by-step.
+",A,D,A,True,0,"Let me work through this step-by-step.
 
 The question asks what would increase the likelihood of obtaining **accurate results** when determining a melting point.
 
@@ -26141,7 +26141,7 @@ A. erosion of the stream bank
 B. deposition of material in the stream
 C. amount of material carried downstream
 D. size of the particles carried downstream
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -26161,7 +26161,7 @@ A. erosion of the stream bank
 B. deposition of material in the stream
 C. amount of material carried downstream
 D. size of the particles carried downstream
-",B,B,A,False,0,"**B**
+",B,B,B,True,0,"**B**
 
 **Step 1:** As stream velocity decreases, the water has less kinetic energy and less ability to keep particles suspended or moving.
 
@@ -26183,7 +26183,7 @@ A. erosion of the stream bank
 B. deposition of material in the stream
 C. amount of material carried downstream
 D. size of the particles carried downstream
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -26242,7 +26242,7 @@ A. erosion of the stream bank
 B. deposition of material in the stream
 C. amount of material carried downstream
 D. size of the particles carried downstream
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -26266,7 +26266,7 @@ A. Plants provide humans with CO_2 for respiration.
 B. Animals release CO_2, required for photosynthesis.
 C. Plants provide humans with atmospheric nitrogen.
 D. Animals release O_2, required for plant survival.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -26286,7 +26286,7 @@ A. Plants provide humans with CO_2 for respiration.
 B. Animals release CO_2, required for photosynthesis.
 C. Plants provide humans with atmospheric nitrogen.
 D. Animals release O_2, required for plant survival.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -26311,7 +26311,7 @@ A. Plants provide humans with CO_2 for respiration.
 B. Animals release CO_2, required for photosynthesis.
 C. Plants provide humans with atmospheric nitrogen.
 D. Animals release O_2, required for plant survival.
-",B,C,A,False,0,"**Answer: B**
+",B,C,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -26335,7 +26335,7 @@ A. Plants provide humans with CO_2 for respiration.
 B. Animals release CO_2, required for photosynthesis.
 C. Plants provide humans with atmospheric nitrogen.
 D. Animals release O_2, required for plant survival.
-",B,D,A,False,0,"Let me work through each option:
+",B,D,B,True,0,"Let me work through each option:
 
 **A. Plants provide humans with CO₂ for respiration.**
 - Incorrect. Plants produce O₂ as a byproduct of photosynthesis. Humans obtain CO₂ from the atmosphere and produce it through cellular respiration, not the other way around.
@@ -26359,7 +26359,7 @@ A. Plants provide humans with CO_2 for respiration.
 B. Animals release CO_2, required for photosynthesis.
 C. Plants provide humans with atmospheric nitrogen.
 D. Animals release O_2, required for plant survival.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -26483,7 +26483,7 @@ A. pushing a button to make a doorbell ring
 B. stepping on a mat to make a door open
 C. flipping a switch to turn on a light
 D. sliding a lever to turn on an electric blanket
-",A,B,B,False,0,"# Let me work through this step by step.
+",A,B,A,True,0,"# Let me work through this step by step.
 
 **Steps 1-2: Identify what produces sound**
 - Doorbell (A): Button closes circuit → electromagnet rings a bell → SOUND ✓
@@ -26586,7 +26586,7 @@ A. It helped people use less gas.
 B. It kept people from driving too fast.
 C. It made cars easier for people to buy.
 D. It made cars safer to drive in bad weather.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 The windshield wiper helps drivers see clearly during rain, snow, or other wet conditions by removing water and debris from the windshield. Better visibility while driving in bad weather directly improves safety by helping drivers avoid accidents. The other options don't logically connect to what a windshield wiper does—it doesn't affect gas usage, speed control, or vehicle cost."
 arc,"In 1903 Mary Anderson invented the first windshield wiper. How did this invention most likely help people?
@@ -26594,7 +26594,7 @@ A. It helped people use less gas.
 B. It kept people from driving too fast.
 C. It made cars easier for people to buy.
 D. It made cars safer to drive in bad weather.
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -26619,7 +26619,7 @@ A. It helped people use less gas.
 B. It kept people from driving too fast.
 C. It made cars easier for people to buy.
 D. It made cars safer to drive in bad weather.
-",D,C,A,False,0,"**D**
+",D,C,D,True,0,"**D**
 
 **Explanation:**
 
@@ -26638,7 +26638,7 @@ A. It helped people use less gas.
 B. It kept people from driving too fast.
 C. It made cars easier for people to buy.
 D. It made cars safer to drive in bad weather.
-",D,D,B,False,0,"Let me think through this step by step.
+",D,D,D,True,0,"Let me think through this step by step.
 
 The windshield wiper's purpose is to clear rain, snow, and other debris from a windshield so the driver can see through it.
 
@@ -26660,7 +26660,7 @@ A. It helped people use less gas.
 B. It kept people from driving too fast.
 C. It made cars easier for people to buy.
 D. It made cars safer to drive in bad weather.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -26716,7 +26716,7 @@ A. number of protons
 B. state of matter
 C. atomic mass
 D. temperature
-",B,C,A,False,0,"**A**
+",B,C,B,True,0,"**A**
 
 Let me work through this:
 
@@ -26801,7 +26801,7 @@ A. stomach
 B. brain
 C. skin
 D. liver
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 The skin is the largest organ in the human body by surface area and weight. In adults, it covers approximately 1.5-2 square meters (16-22 square feet) and accounts for about 15-16% of total body weight.
 
@@ -26811,7 +26811,7 @@ A. stomach
 B. brain
 C. skin
 D. liver
-",C,B,A,False,0,"**D**
+",C,B,D,False,0,"**D**
 
 **Explanation:**
 
@@ -26850,7 +26850,7 @@ A. stomach
 B. brain
 C. skin
 D. liver
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 When considering ""largest organ,"" I need to think about what counts as an organ and how we measure ""largest"" (by mass or surface area).
 
@@ -26877,7 +26877,7 @@ A. stomach
 B. brain
 C. skin
 D. liver
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -27016,7 +27016,7 @@ A. current weather
 B. weather forecast
 C. general climate
 D. climate changes
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -27033,7 +27033,7 @@ A. current weather
 B. weather forecast
 C. general climate
 D. climate changes
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -27054,7 +27054,7 @@ A. current weather
 B. weather forecast
 C. general climate
 D. climate changes
-",C,C,A,False,0,"**Answer: C**
+",C,C,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -27075,7 +27075,7 @@ A. current weather
 B. weather forecast
 C. general climate
 D. climate changes
-",C,D,A,False,0,"A
+",C,D,C,True,0,"A
 
 **Explanation:**
 
@@ -27097,7 +27097,7 @@ A. current weather
 B. weather forecast
 C. general climate
 D. climate changes
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -27119,7 +27119,7 @@ A. Earth has completed one rotation around the Moon.
 B. Earth has completed one revolution around the Sun.
 C. The Sun has completed one revolution around Earth.
 D. The Moon has completed one revolution around Earth.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -27137,7 +27137,7 @@ A. Earth has completed one rotation around the Moon.
 B. Earth has completed one revolution around the Sun.
 C. The Sun has completed one revolution around Earth.
 D. The Moon has completed one revolution around Earth.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -27160,7 +27160,7 @@ A. Earth has completed one rotation around the Moon.
 B. Earth has completed one revolution around the Sun.
 C. The Sun has completed one revolution around Earth.
 D. The Moon has completed one revolution around Earth.
-",B,C,A,False,0,"**Answer: B**
+",B,C,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -27214,7 +27214,7 @@ A. Earth has completed one rotation around the Moon.
 B. Earth has completed one revolution around the Sun.
 C. The Sun has completed one revolution around Earth.
 D. The Moon has completed one revolution around Earth.
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -27237,7 +27237,7 @@ A. the list of energy-saving tips to follow
 B. the outdoor temperature in November
 C. the amount of time given to the investigation
 D. the accuracy of the October and November bills
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -27257,7 +27257,7 @@ A. the list of energy-saving tips to follow
 B. the outdoor temperature in November
 C. the amount of time given to the investigation
 D. the accuracy of the October and November bills
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Reasoning:**
 
@@ -27280,7 +27280,7 @@ A. the list of energy-saving tips to follow
 B. the outdoor temperature in November
 C. the amount of time given to the investigation
 D. the accuracy of the October and November bills
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -27300,7 +27300,7 @@ A. the list of energy-saving tips to follow
 B. the outdoor temperature in November
 C. the amount of time given to the investigation
 D. the accuracy of the October and November bills
-",B,D,A,False,0,"**A**
+",B,D,B,True,0,"**A**
 
 **Explanation:**
 
@@ -27324,7 +27324,7 @@ A. the list of energy-saving tips to follow
 B. the outdoor temperature in November
 C. the amount of time given to the investigation
 D. the accuracy of the October and November bills
-",B,E,A,False,0,"**A**
+",B,E,B,True,0,"**A**
 
 **Explanation:**
 
@@ -27349,7 +27349,7 @@ A. moving through the water
 B. producing oxygen
 C. attracting prey
 D. escaping predators
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -27361,7 +27361,7 @@ A. moving through the water
 B. producing oxygen
 C. attracting prey
 D. escaping predators
-",C,B,B,False,0,"**D**
+",C,B,D,False,0,"**D**
 
 Let me work through this step-by-step:
 
@@ -27386,7 +27386,7 @@ A. moving through the water
 B. producing oxygen
 C. attracting prey
 D. escaping predators
-",C,C,A,False,0,"Let me think through this step by step.
+",C,C,C,True,0,"Let me think through this step by step.
 
 **Pause and reflect:** Deep ocean organisms that produce light are exhibiting bioluminescence. I need to consider what functions light could serve in the deep ocean where sunlight doesn't penetrate.
 
@@ -27410,7 +27410,7 @@ A. moving through the water
 B. producing oxygen
 C. attracting prey
 D. escaping predators
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 First, let me consider what bioluminescence (light production by organisms) is actually used for in deep ocean creatures:
 
@@ -27432,7 +27432,7 @@ A. moving through the water
 B. producing oxygen
 C. attracting prey
 D. escaping predators
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -27452,7 +27452,7 @@ A. Meat, milk, and a piece of chocolate
 B. Bread, vegetables, and fish
 C. Vegetables, fruits, and water
 D. Meat, fish, and bread
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 Bread, vegetables, and fish provides the most complete nutrition because:
 
@@ -27471,7 +27471,7 @@ A. Meat, milk, and a piece of chocolate
 B. Bread, vegetables, and fish
 C. Vegetables, fruits, and water
 D. Meat, fish, and bread
-",B,B,A,False,0,"**B**
+",B,B,B,True,0,"**B**
 
 **Explanation:**
 
@@ -27496,7 +27496,7 @@ A. Meat, milk, and a piece of chocolate
 B. Bread, vegetables, and fish
 C. Vegetables, fruits, and water
 D. Meat, fish, and bread
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -27524,7 +27524,7 @@ A. Meat, milk, and a piece of chocolate
 B. Bread, vegetables, and fish
 C. Vegetables, fruits, and water
 D. Meat, fish, and bread
-",B,D,D,False,0,"Let me think through the nutrient groups needed for a balanced diet:
+",B,D,B,True,0,"Let me think through the nutrient groups needed for a balanced diet:
 
 Essential nutrient categories:
 - Proteins
@@ -27716,7 +27716,7 @@ A. carpool to school
 B. ride a bus to school
 C. ride a bike to school
 D. drive alone to school
-",C,B,A,False,0,"**B**
+",C,B,B,False,0,"**B**
 
 **Explanation:**
 
@@ -27742,7 +27742,7 @@ A. carpool to school
 B. ride a bus to school
 C. ride a bike to school
 D. drive alone to school
-",C,C,B,False,0,"Let me think through this step by step.
+",C,C,C,True,0,"Let me think through this step by step.
 
 The question asks for the BEST way to conserve gasoline. This means using the least amount of gasoline per person.
 
@@ -27786,7 +27786,7 @@ A. carpool to school
 B. ride a bus to school
 C. ride a bike to school
 D. drive alone to school
-",C,E,A,False,0,"**B**
+",C,E,B,False,0,"**B**
 
 **Explanation:**
 
@@ -27815,7 +27815,7 @@ A. It is much windier at the coast than farther inland.
 B. The temperature of the land remains fairly constant.
 C. It is much less humid at the coast than farther inland.
 D. The temperature of the ocean remains fairly constant.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -27833,7 +27833,7 @@ A. It is much windier at the coast than farther inland.
 B. The temperature of the land remains fairly constant.
 C. It is much less humid at the coast than farther inland.
 D. The temperature of the ocean remains fairly constant.
-",D,B,B,False,0,"Let me work through this step by step.
+",D,B,D,True,0,"Let me work through this step by step.
 
 **Step 1:** What causes temperature extremes inland?
 - Land heats up quickly during the day and cools rapidly at night
@@ -27896,7 +27896,7 @@ A. It is much windier at the coast than farther inland.
 B. The temperature of the land remains fairly constant.
 C. It is much less humid at the coast than farther inland.
 D. The temperature of the ocean remains fairly constant.
-",D,D,B,False,0,"Let me work through this step-by-step.
+",D,D,D,True,0,"Let me work through this step-by-step.
 
 The question asks why coastal temperature changes are less extreme than inland temperature changes.
 
@@ -27930,7 +27930,7 @@ A. It is much windier at the coast than farther inland.
 B. The temperature of the land remains fairly constant.
 C. It is much less humid at the coast than farther inland.
 D. The temperature of the ocean remains fairly constant.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -27955,7 +27955,7 @@ A. 24
 B. 28
 C. 48
 D. 52
-",D,A,A,False,0,"**C**
+",D,A,D,True,0,"**C**
 
 **Explanation:**
 
@@ -27976,7 +27976,7 @@ A. 24
 B. 28
 C. 48
 D. 52
-",D,B,B,False,0,"Let me work through this step by step.
+",D,B,D,True,0,"Let me work through this step by step.
 
 **Step 1:** Identify what particles are in the nucleus.
 The nucleus contains protons and neutrons.
@@ -27999,7 +27999,7 @@ A. 24
 B. 28
 C. 48
 D. 52
-",D,C,B,False,0,"Let me work through this step by step.
+",D,C,C,False,0,"Let me work through this step by step.
 
 The nucleus of an atom contains:
 - Protons
@@ -28027,7 +28027,7 @@ A. 24
 B. 28
 C. 48
 D. 52
-",D,D,A,False,0,"Let me work through this step by step.
+",D,D,D,True,0,"Let me work through this step by step.
 
 **Understanding the nucleus:**
 The nucleus of an atom contains:
@@ -28057,7 +28057,7 @@ A. 24
 B. 28
 C. 48
 D. 52
-",D,E,A,False,0,"**A**
+",D,E,D,True,0,"**A**
 
 Wait, let me reconsider this carefully.
 
@@ -28078,7 +28078,7 @@ A. leaf shape
 B. flower color
 C. plant height
 D. survival rate
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -28097,7 +28097,7 @@ A. leaf shape
 B. flower color
 C. plant height
 D. survival rate
-",D,B,A,False,0,"# Answer: D
+",D,B,D,True,0,"# Answer: D
 
 ## Explanation:
 
@@ -28119,7 +28119,7 @@ A. leaf shape
 B. flower color
 C. plant height
 D. survival rate
-",D,C,A,False,0,"A
+",D,C,D,True,0,"A
 
 **Explanation:**
 
@@ -28139,7 +28139,7 @@ A. leaf shape
 B. flower color
 C. plant height
 D. survival rate
-",D,D,A,False,0,"Let me think through each option:
+",D,D,D,True,0,"Let me think through each option:
 
 **A. Leaf shape** - This is a heritable trait controlled by genes. It is passed from parent plants to offspring.
 
@@ -28157,7 +28157,7 @@ A. leaf shape
 B. flower color
 C. plant height
 D. survival rate
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -28177,7 +28177,7 @@ A. They can produce their own oxygen.
 B. They make their own food from sunlight.
 C. They can receive nutrients through the cell wall.
 D. They use mitochondria to release energy from sugars.
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -28195,7 +28195,7 @@ A. They can produce their own oxygen.
 B. They make their own food from sunlight.
 C. They can receive nutrients through the cell wall.
 D. They use mitochondria to release energy from sugars.
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Reasoning:**
 
@@ -28239,7 +28239,7 @@ A. They can produce their own oxygen.
 B. They make their own food from sunlight.
 C. They can receive nutrients through the cell wall.
 D. They use mitochondria to release energy from sugars.
-",D,D,A,False,0,"Let me work through each option:
+",D,D,D,True,0,"Let me work through each option:
 
 **A. They can produce their own oxygen.**
 - Only plant cells produce oxygen (through photosynthesis)
@@ -28270,7 +28270,7 @@ A. They can produce their own oxygen.
 B. They make their own food from sunlight.
 C. They can receive nutrients through the cell wall.
 D. They use mitochondria to release energy from sugars.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -28294,7 +28294,7 @@ A. space flight
 B. genetic modification
 C. alternative energy
 D. hurricane forecasting
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 The microscope was fundamental to genetic research in the 20th century. It enabled scientists to:
 
@@ -28310,7 +28310,7 @@ A. space flight
 B. genetic modification
 C. alternative energy
 D. hurricane forecasting
-",B,B,A,False,0,"**B**
+",B,B,B,True,0,"**B**
 
 **Explanation:**
 
@@ -28334,7 +28334,7 @@ A. space flight
 B. genetic modification
 C. alternative energy
 D. hurricane forecasting
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 The microscope was instrumental in advancing genetic research throughout the 20th century. It enabled scientists to:
 
@@ -28352,7 +28352,7 @@ A. space flight
 B. genetic modification
 C. alternative energy
 D. hurricane forecasting
-",B,D,A,False,0,"Let me think through each option:
+",B,D,B,True,0,"Let me think through each option:
 
 **A. Space flight** - This relied primarily on physics, engineering, chemistry, and mathematics. While microscopes weren't irrelevant, they weren't central to advancing space flight technology.
 
@@ -28370,7 +28370,7 @@ A. space flight
 B. genetic modification
 C. alternative energy
 D. hurricane forecasting
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -28390,7 +28390,7 @@ A. heating the water before it is frozen
 B. adding salt to the water before it is frozen
 C. changing the amount of water to be frozen
 D. changing the container for the water to be frozen in
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -28405,7 +28405,7 @@ A. heating the water before it is frozen
 B. adding salt to the water before it is frozen
 C. changing the amount of water to be frozen
 D. changing the container for the water to be frozen in
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -28427,7 +28427,7 @@ A. heating the water before it is frozen
 B. adding salt to the water before it is frozen
 C. changing the amount of water to be frozen
 D. changing the container for the water to be frozen in
-",B,C,A,False,0,"**Answer: B**
+",B,C,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -28449,7 +28449,7 @@ A. heating the water before it is frozen
 B. adding salt to the water before it is frozen
 C. changing the amount of water to be frozen
 D. changing the container for the water to be frozen in
-",B,D,A,False,0,"Let me think through each option:
+",B,D,B,True,0,"Let me think through each option:
 
 **A. Heating the water before it is frozen**
 - Heating water before freezing just means starting at a higher temperature
@@ -28479,7 +28479,7 @@ A. heating the water before it is frozen
 B. adding salt to the water before it is frozen
 C. changing the amount of water to be frozen
 D. changing the container for the water to be frozen in
-",B,E,A,False,0,"**A**
+",B,E,B,True,0,"**A**
 
 **Explanation:**
 
@@ -28501,7 +28501,7 @@ A. are longitudinal waves.
 B. have the same frequency.
 C. carry energy from one place to another.
 D. carry a medium from one place to another.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -28521,7 +28521,7 @@ A. are longitudinal waves.
 B. have the same frequency.
 C. carry energy from one place to another.
 D. carry a medium from one place to another.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Reasoning:**
 
@@ -28547,7 +28547,7 @@ A. are longitudinal waves.
 B. have the same frequency.
 C. carry energy from one place to another.
 D. carry a medium from one place to another.
-",C,C,A,False,0,"**C**
+",C,C,C,True,0,"**C**
 
 **Explanation:**
 
@@ -28567,7 +28567,7 @@ A. are longitudinal waves.
 B. have the same frequency.
 C. carry energy from one place to another.
 D. carry a medium from one place to another.
-",C,D,A,False,0,"Let me think through each option:
+",C,D,C,True,0,"Let me think through each option:
 
 **A. Are longitudinal waves.**
 - Sound waves are longitudinal (particles vibrate parallel to wave direction)
@@ -28598,7 +28598,7 @@ A. are longitudinal waves.
 B. have the same frequency.
 C. carry energy from one place to another.
 D. carry a medium from one place to another.
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -28622,7 +28622,7 @@ A. condensation
 B. evaporation
 C. freezing
 D. melting
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -28639,7 +28639,7 @@ A. condensation
 B. evaporation
 C. freezing
 D. melting
-",B,B,A,False,0,"**B**
+",B,B,B,True,0,"**B**
 
 **Explanation:**
 
@@ -28660,7 +28660,7 @@ A. condensation
 B. evaporation
 C. freezing
 D. melting
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -28702,7 +28702,7 @@ A. condensation
 B. evaporation
 C. freezing
 D. melting
-",B,E,A,False,0,"**B**
+",B,E,B,True,0,"**B**
 
 **Explanation:**
 
@@ -28781,7 +28781,7 @@ A. a sheet of rubber
 B. a sheet of paper
 C. a sheet of metal
 D. a sheet of wood
-",A,D,B,False,0,"Let me think through this step by step.
+",A,D,A,True,0,"Let me think through this step by step.
 
 The question asks what material would best model human skin and how it covers the body.
 
@@ -28949,7 +28949,7 @@ A. 3
 B. 5
 C. 6
 D. 8
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -28966,7 +28966,7 @@ A. 3
 B. 5
 C. 6
 D. 8
-",C,C,B,False,0,"Let me work through this step by step.
+",C,C,C,True,0,"Let me work through this step by step.
 
 Selenium (Se) is element 34 on the periodic table.
 
@@ -28987,7 +28987,7 @@ A. 3
 B. 5
 C. 6
 D. 8
-",C,D,B,False,0,"Let me work through this step by step.
+",C,D,C,True,0,"Let me work through this step by step.
 
 Selenium (Se) is element 34 on the periodic table.
 
@@ -29010,7 +29010,7 @@ A. 3
 B. 5
 C. 6
 D. 8
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -29029,7 +29029,7 @@ A. the discovery of the atom.
 B. better surgical techniques.
 C. continued experimentation.
 D. the invention of the microscope.
-",C,A,A,False,0,"**A**
+",C,A,C,True,0,"**A**
 
 Wait, let me reconsider. The correct answer is **C**.
 
@@ -29049,7 +29049,7 @@ A. the discovery of the atom.
 B. better surgical techniques.
 C. continued experimentation.
 D. the invention of the microscope.
-",C,B,A,False,0,"# Step 1 & 2: Identify the key historical concept
+",C,B,D,False,0,"# Step 1 & 2: Identify the key historical concept
 The question refers to **spontaneous generation** - the false belief that life could arise from non-living matter. This was disproven through scientific investigation in the 1600s-1800s.
 
 *Checkpoint: Is this correct? Am I missing another angle?*
@@ -29074,7 +29074,7 @@ A. the discovery of the atom.
 B. better surgical techniques.
 C. continued experimentation.
 D. the invention of the microscope.
-",C,C,A,False,0,"A
+",C,C,C,True,0,"A
 
 The idea that living organisms could spontaneously arise from non-living matter is called ""spontaneous generation."" This was disproved primarily through **continued experimentation** (option C).
 
@@ -29090,7 +29090,7 @@ A. the discovery of the atom.
 B. better surgical techniques.
 C. continued experimentation.
 D. the invention of the microscope.
-",C,D,A,False,0,"**Answer: C**
+",C,D,C,True,0,"**Answer: C**
 
 **Reasoning:**
 
@@ -29114,7 +29114,7 @@ A. the discovery of the atom.
 B. better surgical techniques.
 C. continued experimentation.
 D. the invention of the microscope.
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait—let me pause and reconsider this carefully, as I notice I'm making an assumption about historical facts.
 
@@ -29138,7 +29138,7 @@ A. genes for dimples.
 B. alleles for dimples.
 C. chromosomes for dimples.
 D. genotypes for dimples.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -29189,7 +29189,7 @@ A. genes for dimples.
 B. alleles for dimples.
 C. chromosomes for dimples.
 D. genotypes for dimples.
-",B,C,A,False,0,"**A**
+",B,C,B,True,0,"**A**
 
 **Explanation:**
 
@@ -29220,7 +29220,7 @@ A. genes for dimples.
 B. alleles for dimples.
 C. chromosomes for dimples.
 D. genotypes for dimples.
-",B,D,A,False,0,"Let me work through this step-by-step.
+",B,D,B,True,0,"Let me work through this step-by-step.
 
 **Understanding the scenario:**
 - One girl has dimples (dominant trait)
@@ -29279,7 +29279,7 @@ A. divergent boundary between two oceanic plates
 B. divergent boundary between an oceanic plate and a continental plate
 C. convergent boundary between an oceanic plate and a continental plate
 D. convergent boundary between two continental plates
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -29320,7 +29320,7 @@ A. divergent boundary between two oceanic plates
 B. divergent boundary between an oceanic plate and a continental plate
 C. convergent boundary between an oceanic plate and a continental plate
 D. convergent boundary between two continental plates
-",D,C,B,False,0,"Let me think through this step by step.
+",D,C,D,True,0,"Let me think through this step by step.
 
 **Understanding the question:** We need to identify where mountains form from preexisting crust material (not new crust creation).
 
@@ -29344,7 +29344,7 @@ A. divergent boundary between two oceanic plates
 B. divergent boundary between an oceanic plate and a continental plate
 C. convergent boundary between an oceanic plate and a continental plate
 D. convergent boundary between two continental plates
-",D,D,B,False,0,"Let me work through this step-by-step.
+",D,D,D,True,0,"Let me work through this step-by-step.
 
 The question asks where mountains are built from **preexisting crust material** (no new crust being created).
 
@@ -29383,7 +29383,7 @@ A. divergent boundary between two oceanic plates
 B. divergent boundary between an oceanic plate and a continental plate
 C. convergent boundary between an oceanic plate and a continental plate
 D. convergent boundary between two continental plates
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -29408,7 +29408,7 @@ A. rotational speed
 B. apparent brightness
 C. surface temperature
 D. chemical composition
-",D,A,A,False,0,"**D**
+",D,A,D,True,0,"**D**
 
 **Explanation:**
 
@@ -29425,7 +29425,7 @@ A. rotational speed
 B. apparent brightness
 C. surface temperature
 D. chemical composition
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -29449,7 +29449,7 @@ A. rotational speed
 B. apparent brightness
 C. surface temperature
 D. chemical composition
-",D,C,A,False,0,"Let me think through this step by step.
+",D,C,D,True,0,"Let me think through this step by step.
 
 Nuclear fusion is the process where atomic nuclei combine to form heavier nuclei, releasing energy. For this to happen, certain conditions must be met.
 
@@ -29476,7 +29476,7 @@ A. rotational speed
 B. apparent brightness
 C. surface temperature
 D. chemical composition
-",D,D,A,False,0,"Let me think through this step by step.
+",D,D,D,True,0,"Let me think through this step by step.
 
 Nuclear fusion is the process where atomic nuclei combine to form heavier nuclei, releasing energy. For this to happen, certain conditions must be met.
 
@@ -29505,7 +29505,7 @@ A. rotational speed
 B. apparent brightness
 C. surface temperature
 D. chemical composition
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -29527,7 +29527,7 @@ A. potassium.
 B. phosphorus.
 C. carbohydrates.
 D. nitrogen.
-",C,A,A,False,0,"**C**
+",C,A,C,True,0,"**C**
 
 **Explanation:**
 
@@ -29541,7 +29541,7 @@ A. potassium.
 B. phosphorus.
 C. carbohydrates.
 D. nitrogen.
-",C,B,A,False,0,"# Step 1 & 2: Identify what plants need for growth
+",C,B,C,True,0,"# Step 1 & 2: Identify what plants need for growth
 
 Plants require:
 - **Macronutrients**: Nitrogen (N), Phosphorus (P), Potassium (K)
@@ -29571,7 +29571,7 @@ A. potassium.
 B. phosphorus.
 C. carbohydrates.
 D. nitrogen.
-",C,C,A,False,0,"**Answer: C**
+",C,C,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -29593,7 +29593,7 @@ A. potassium.
 B. phosphorus.
 C. carbohydrates.
 D. nitrogen.
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks what ingredient would NOT be included in a fertilizer that claims to have ""all the chemicals a plant needs for rapid growth.""
 
@@ -29623,7 +29623,7 @@ A. potassium.
 B. phosphorus.
 C. carbohydrates.
 D. nitrogen.
-",C,E,A,False,0,"**C**
+",C,E,C,True,0,"**C**
 
 **Explanation:**
 
@@ -29647,7 +29647,7 @@ A. It increases the supply of resources.
 B. It decreases the amount of resources.
 C. It results in less demand for resources.
 D. It improves the quality of the resources.
-",B,A,A,False,0,"**B**
+",B,A,B,True,0,"**B**
 
 **Explanation:**
 
@@ -29664,7 +29664,7 @@ A. It increases the supply of resources.
 B. It decreases the amount of resources.
 C. It results in less demand for resources.
 D. It improves the quality of the resources.
-",B,B,A,False,0,"**Answer: B**
+",B,B,B,True,0,"**Answer: B**
 
 **Explanation:**
 
@@ -29688,7 +29688,7 @@ A. It increases the supply of resources.
 B. It decreases the amount of resources.
 C. It results in less demand for resources.
 D. It improves the quality of the resources.
-",B,C,A,False,0,"**B**
+",B,C,B,True,0,"**B**
 
 **Explanation:**
 
@@ -29712,7 +29712,7 @@ A. It increases the supply of resources.
 B. It decreases the amount of resources.
 C. It results in less demand for resources.
 D. It improves the quality of the resources.
-",B,D,A,False,0,"**A**
+",B,D,B,True,0,"**A**
 
 Wait, let me reconsider this more carefully.
 
@@ -29736,7 +29736,7 @@ A. It increases the supply of resources.
 B. It decreases the amount of resources.
 C. It results in less demand for resources.
 D. It improves the quality of the resources.
-",B,E,A,False,0,"**A**
+",B,E,B,True,0,"**A**
 
 Wait—let me pause and reconsider this carefully, as instructed.
 
@@ -29763,7 +29763,7 @@ A. The temperature is lower in the valley than on the mountain top.
 B. The temperature is higher in the valley than on the mountain top.
 C. Air pressure in the valley is lower than on the mountain top.
 D. Air pressure in the valley is higher than on the mountain top.
-",D,A,A,False,0,"**A**
+",D,A,D,True,0,"**A**
 
 **Explanation:**
 
@@ -29779,7 +29779,7 @@ A. The temperature is lower in the valley than on the mountain top.
 B. The temperature is higher in the valley than on the mountain top.
 C. Air pressure in the valley is lower than on the mountain top.
 D. Air pressure in the valley is higher than on the mountain top.
-",D,B,A,False,0,"**D**
+",D,B,D,True,0,"**D**
 
 **Explanation:**
 
@@ -29835,7 +29835,7 @@ A. The temperature is lower in the valley than on the mountain top.
 B. The temperature is higher in the valley than on the mountain top.
 C. Air pressure in the valley is lower than on the mountain top.
 D. Air pressure in the valley is higher than on the mountain top.
-",D,D,A,False,0,"**Answer: D**
+",D,D,D,True,0,"**Answer: D**
 
 **Reasoning:**
 
@@ -29859,7 +29859,7 @@ A. The temperature is lower in the valley than on the mountain top.
 B. The temperature is higher in the valley than on the mountain top.
 C. Air pressure in the valley is lower than on the mountain top.
 D. Air pressure in the valley is higher than on the mountain top.
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -29887,7 +29887,7 @@ A. Cl_{2}
 B. HZn
 C. ZnCl
 D. ZnCl_{2}
-",D,A,A,False,0,"**A**
+",D,A,D,True,0,"**A**
 
 Wait, let me reconsider. The correct answer is **D**.
 
@@ -29912,7 +29912,7 @@ A. Cl_{2}
 B. HZn
 C. ZnCl
 D. ZnCl_{2}
-",D,B,A,False,0,"# Step 1: Identify the reactants and their properties
+",D,B,D,True,0,"# Step 1: Identify the reactants and their properties
 - Zn (zinc) is a metal
 - HCl (hydrochloric acid) is an acid
 - This is a classic acid-metal reaction
@@ -29942,7 +29942,7 @@ A. Cl_{2}
 B. HZn
 C. ZnCl
 D. ZnCl_{2}
-",D,C,B,False,0,"Let me work through this step by step.
+",D,C,D,True,0,"Let me work through this step by step.
 
 When HCl is added to Zn, I need to consider:
 1. The oxidation states involved
@@ -29973,7 +29973,7 @@ A. Cl_{2}
 B. HZn
 C. ZnCl
 D. ZnCl_{2}
-",D,D,A,False,0,"Let me work through this step by step.
+",D,D,D,True,0,"Let me work through this step by step.
 
 **Analyzing the reaction between HCl and Zn:**
 
@@ -30004,7 +30004,7 @@ A. Cl_{2}
 B. HZn
 C. ZnCl
 D. ZnCl_{2}
-",D,E,A,False,0,"**D**
+",D,E,D,True,0,"**D**
 
 **Explanation:**
 
@@ -30121,7 +30121,7 @@ A. 23
 B. 43
 C. 63
 D. 83 331
-",C,A,A,False,0,"**Answer: C**
+",C,A,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -30145,7 +30145,7 @@ A. 23
 B. 43
 C. 63
 D. 83 331
-",C,B,A,False,0,"# Step-by-Step Solution
+",C,B,C,True,0,"# Step-by-Step Solution
 
 **Step 1: Convert roof area to squares**
 - Roof area = 2000 sq. ft.
@@ -30183,7 +30183,7 @@ A. 23
 B. 43
 C. 63
 D. 83 331
-",C,C,A,False,0,"**Answer: C**
+",C,C,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -30217,7 +30217,7 @@ A. 23
 B. 43
 C. 63
 D. 83 331
-",C,D,B,False,0,"Let me work through this step-by-step.
+",C,D,C,True,0,"Let me work through this step-by-step.
 
 **Given information:**
 - Roof area: 2000 sq. ft.
@@ -30251,7 +30251,7 @@ A. 23
 B. 43
 C. 63
 D. 83 331
-",C,E,B,False,0,"Let me work through this step-by-step.
+",C,E,C,True,0,"Let me work through this step-by-step.
 
 **Given information:**
 - Roof area: 2000 sq. ft.
@@ -30287,7 +30287,7 @@ A. The temperature of the water remains constant.
 B. The pressure acting on the water remains constant.
 C. The number of atoms in the water remains constant.
 D. The distance between water molecules remains constant.
-",C,A,A,False,0,"**Answer: C**
+",C,A,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -30309,7 +30309,7 @@ A. The temperature of the water remains constant.
 B. The pressure acting on the water remains constant.
 C. The number of atoms in the water remains constant.
 D. The distance between water molecules remains constant.
-",C,B,A,False,0,"**Answer: C**
+",C,B,C,True,0,"**Answer: C**
 
 **Explanation:**
 
@@ -30335,7 +30335,7 @@ A. The temperature of the water remains constant.
 B. The pressure acting on the water remains constant.
 C. The number of atoms in the water remains constant.
 D. The distance between water molecules remains constant.
-",C,C,A,False,0,"**A**
+",C,C,C,True,0,"**A**
 
 Let me think through this step by step:
 
@@ -30362,7 +30362,7 @@ A. The temperature of the water remains constant.
 B. The pressure acting on the water remains constant.
 C. The number of atoms in the water remains constant.
 D. The distance between water molecules remains constant.
-",C,D,B,False,0,"Let me think through this step by step.
+",C,D,C,True,0,"Let me think through this step by step.
 
 The question asks why mass remains constant when water evaporates.
 
@@ -30392,7 +30392,7 @@ A. The temperature of the water remains constant.
 B. The pressure acting on the water remains constant.
 C. The number of atoms in the water remains constant.
 D. The distance between water molecules remains constant.
-",C,E,A,False,0,"**A**
+",C,E,C,True,0,"**A**
 
 Wait—let me pause here. I need to reconsider this carefully.
 
