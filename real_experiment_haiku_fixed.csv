@@ -294,7 +294,7 @@ Because 29 days = 4 complete weeks plus 1 extra day, March 1st will always be 1 
 Yes. This applies consistently to all leap years.
 
 **Answer: No** — March begins on a different day of the week than February (specifically, one day later in the weekly cycle) during leap years."
-strategyqa,Does March begin on the same day of the week as February during leap years?,False,C,True,False,0,"# Yes or No?
+strategyqa,Does March begin on the same day of the week as February during leap years?,False,C,False,True,0,"# Yes or No?
 
 **No**
 
@@ -472,7 +472,7 @@ Additionally, the question's framing assumes this is a known preference, but the
 - Whether it's network vs. streaming
 
 If you're asking about a specific historical comparison or context, I'd need more details to give a more accurate answer."
-strategyqa,Is a thousand dollars per Days of Our Lives episodes preferred to other soaps?,False,B,False,True,2,"# No
+strategyqa,Is a thousand dollars per Days of Our Lives episodes preferred to other soaps?,False,B,None,False,0,"# No
 
 Let me think through this:
 
@@ -509,7 +509,7 @@ This question contains an unclear premise that's difficult to evaluate fairly:
 *Pausing to reflect*: This appears to be either a trick question or based on a mistaken premise about soap opera economics. If you're asking whether Days of Our Lives was considered superior to other soaps based on budget allocation, that's not well-supported. If you're asking something else, the question would benefit from clarification.
 
 A more answerable question would specify: the era, who's doing the preferring, and what specifically is being compared."
-strategyqa,Is a thousand dollars per Days of Our Lives episodes preferred to other soaps?,False,D,False,True,1,"# No
+strategyqa,Is a thousand dollars per Days of Our Lives episodes preferred to other soaps?,False,D,None,False,0,"# No
 
 ## Reasoning:
 
@@ -653,7 +653,7 @@ The disparity in traceable descendants (one legitimate child vs. many children a
 strategyqa,Does Buddy The Elf know anyone who works in publishing?,True,A,True,True,2,"**Yes.**
 
 In the movie ""Elf,"" Buddy the Elf knows Walter Hobbs, his biological father, who is a high-ranking executive at a book publishing company in New York City. Walter works in the publishing industry, and Buddy comes to know him after traveling from the North Pole to find him."
-strategyqa,Does Buddy The Elf know anyone who works in publishing?,True,B,False,False,0,"# No
+strategyqa,Does Buddy The Elf know anyone who works in publishing?,True,B,True,True,0,"# No
 
 **Explanation:**
 
@@ -692,7 +692,7 @@ strategyqa,Does Buddy The Elf know anyone who works in publishing?,True,D,True,T
 In the movie ""Elf"" (2003), Buddy the Elf knows Walter Hobbs, his biological father, who is a high-ranking executive at a major publishing company in New York City. Walter runs a publishing business, which is a central plot point of the film. Buddy goes to New York to find his father and ends up working at the publishing company.
 
 So yes, Buddy definitely knows someone who works in publishing—his father Walter."
-strategyqa,Does Buddy The Elf know anyone who works in publishing?,True,E,False,False,0,"No.
+strategyqa,Does Buddy The Elf know anyone who works in publishing?,True,E,True,True,0,"No.
 
 **Explanation:**
 
@@ -1159,7 +1159,7 @@ Yes - the caracal wins on pure height. No missing angles here.
 **Conclusion:**
 
 A caracal would **not** be defeated by Javier Sotomayor in a high jump competition. The caracal would win decisively, clearing heights the world's greatest human high jumper cannot reach. The caracal's evolutionary adaptations for hunting give it an insurmountable advantage in vertical jumping ability."
-strategyqa,Would a caracal be defeated by Javier Sotomayor in a high jump competition?,False,C,False,True,2,"# No
+strategyqa,Would a caracal be defeated by Javier Sotomayor in a high jump competition?,False,C,True,False,0,"# No
 
 **Initial reasoning:**
 A caracal is a wild cat that can jump 3-4 meters (10-13 feet) high vertically. Javier Sotomayor is a legendary high jumper—but his world record is 2.45 meters (8 feet).
@@ -1171,7 +1171,7 @@ Wait, let me verify this is the right comparison. The caracal's jumping ability 
 The caracal would clear heights Sotomayor could never reach. So the caracal would ""win"" this competition—meaning Sotomayor would be defeated, not victorious.
 
 **Therefore: Yes, Sotomayor would be defeated.** (I had the question backwards in my initial framing, but the answer to the direct question ""Would a caracal defeat Sotomayor?"" is clearly yes.)"
-strategyqa,Would a caracal be defeated by Javier Sotomayor in a high jump competition?,False,D,True,False,0,"# Yes
+strategyqa,Would a caracal be defeated by Javier Sotomayor in a high jump competition?,False,D,False,True,0,"# Yes
 
 ## Reasoning:
 
@@ -1254,7 +1254,7 @@ Salmon are primarily found in the Atlantic and Pacific Oceans and their connecte
 However, there's an important nuance: the Caspian Sea does have sturgeon (sometimes called ""caviar fish""), which are sometimes confused with salmon. Additionally, some anadromous fish do enter rivers flowing into the Caspian Sea, but true salmon species do not naturally occur there.
 
 While salmon could theoretically survive in the Caspian Sea's waters, they do not naturally mate there because they don't inhabit it as part of their native range. Any salmon in the Caspian would be accidental introductions."
-strategyqa,Do salmon mate in the Caspian Sea?,False,D,True,False,0,"# Yes or No: **No**
+strategyqa,Do salmon mate in the Caspian Sea?,False,D,False,True,0,"# Yes or No: **No**
 
 ## Explanation:
 
@@ -1292,7 +1292,7 @@ Vowels on the first line: E, U, I, O (4 vowels)
 Vowels NOT on the first line: A (1 vowel)
 
 Since 4 out of 5 vowels (80%) can be typed on the first line, the majority of vowels can indeed be typed there."
-strategyqa,Can the majority of vowels be typed on the first line of a QWERTY keyboard?,True,B,False,False,0,"**No.**
+strategyqa,Can the majority of vowels be typed on the first line of a QWERTY keyboard?,True,B,True,True,0,"**No.**
 
 Let me work through this step-by-step:
 
@@ -1342,7 +1342,7 @@ Vowels NOT on this line:
 - 4 out of 5 = 80%
 
 Since 4 out of 5 vowels (the majority) can be typed on the first line of a QWERTY keyboard, the answer is **Yes**."
-strategyqa,Can the majority of vowels be typed on the first line of a QWERTY keyboard?,True,D,False,False,0,"# Step by Step Analysis
+strategyqa,Can the majority of vowels be typed on the first line of a QWERTY keyboard?,True,D,True,True,0,"# Step by Step Analysis
 
 **First, let me identify the vowels:**
 A, E, I, O, U (5 vowels total)
@@ -1365,7 +1365,7 @@ The top row (number row excluded, referring to the first letter row): Q-W-E-R-T-
 **Yes**
 
 The majority of vowels (4 out of 5) can be typed on the first line of a QWERTY keyboard. The letters E, I, O, and U all appear on the top letter row. Only A is missing, appearing on the second row instead."
-strategyqa,Can the majority of vowels be typed on the first line of a QWERTY keyboard?,True,E,False,False,0,"**No.**
+strategyqa,Can the majority of vowels be typed on the first line of a QWERTY keyboard?,True,E,True,True,0,"**No.**
 
 Let me work through this carefully:
 
@@ -1440,7 +1440,7 @@ Goofy is a dog (anthropomorphic, but fundamentally canine), and Nylabones are sp
 *[Pausing to reflect: This is straightforward—Goofy has dog characteristics and would respond to dog-appropriate enrichment items as a dog would, despite his human-like intelligence and speech.]*
 
 Given that Goofy exhibits typical dog behaviors (loyalty, playfulness, food motivation), he would almost certainly enjoy a Nylabone. It would appeal to his instinctual need to chew while being safe and durable. The main question would be which flavor—bacon, chicken, or peanut butter—he'd prefer, which might depend on his individual tastes."
-strategyqa,Would Goofy hypothetically enjoy Nylabone?,True,D,True,True,1,"# Yes
+strategyqa,Would Goofy hypothetically enjoy Nylabone?,True,D,False,False,0,"# Yes
 
 ## Reasoning:
 
@@ -1573,7 +1573,7 @@ The Joker's romantic relationships (most notably with Harley Quinn across variou
 Harley Quinn's own character arc in recent adaptations often involves her recognizing and escaping unhealthy dynamics with him, which further underscores that these aren't healthy relationships.
 
 So definitively: No."
-strategyqa,Is the Joker in a healthy romantic relationship?,False,D,True,False,0,"# Yes or No: No
+strategyqa,Is the Joker in a healthy romantic relationship?,False,D,False,True,0,"# Yes or No: No
 
 ## Reasoning:
 
@@ -1721,7 +1721,7 @@ Let me think through this step by step.
 3. **Behavioral evidence:** Hedgehogs dig and forage specifically for invertebrates, which are a major part of their diet. They certainly don't avoid them.
 
 So hedgehogs do not avoid animals without spinal cords; they pursue them as food sources. The answer is **No**."
-strategyqa,Would a hedgehog avoid animals without a spinal cord?,False,D,True,False,0,"# Yes
+strategyqa,Would a hedgehog avoid animals without a spinal cord?,False,D,False,True,0,"# Yes
 
 ## Reasoning:
 
@@ -1940,7 +1940,7 @@ Raw carrots *do* contain vitamin A, but they're not optimal for *maximizing* abs
 ---
 
 *Pausing to reflect: I should note that ""raw vs. cooked"" debates often miss the fat component, which is the real game-changer here.*"
-strategyqa,Are raw carrots better for maximizing vitamin A intake?,False,D,False,True,2,"# Answer: No
+strategyqa,Are raw carrots better for maximizing vitamin A intake?,False,D,True,False,0,"# Answer: No
 
 ## Reasoning:
 
@@ -2095,7 +2095,7 @@ This question asks us to compare two things that operate on completely different
 *Pausing to reflect:* The core issue is that E6000's cure time (72 hours minimum) is vastly longer than the time it takes to complete a 500-mile race (3-4 hours).
 
 **Therefore:** E6000 would NOT cure before a hoverboard could theoretically finish the Daytona 500, since the race would be over in hours while the adhesive needs days to fully cure."
-strategyqa,Can E6000 cure before a hoverboard finishes the Daytona 500? ,True,D,True,True,1,"# Yes
+strategyqa,Can E6000 cure before a hoverboard finishes the Daytona 500? ,True,D,False,False,0,"# Yes
 
 ## Reasoning:
 
@@ -2641,7 +2641,7 @@ strategyqa,Does a person need to be a parent to become a grandparent?,True,A,Tru
 - That child must then have their own child (making you a grandparent)
 
 The only logical sequence is: person → becomes a parent → becomes a grandparent. You cannot skip the parenting step and go directly to grandparenthood."
-strategyqa,Does a person need to be a parent to become a grandparent?,True,B,False,False,0,"# No
+strategyqa,Does a person need to be a parent to become a grandparent?,True,B,True,True,0,"# No
 
 **Explanation:**
 
@@ -2695,7 +2695,7 @@ A person can become a grandparent through their spouse or partner's children, wi
 **Example:** If Person A marries Person B who has adult children from a previous relationship, and those children have kids, Person A becomes a grandparent without ever having been a parent.
 
 **Flag — assumption to verify:** I initially assumed ""grandparent"" meant the standard biological/legal definition (parent of one's child or child's spouse). This is the conventional definition, but I should note that in some contexts, ""grandparent"" might refer only to biological descent. However, the standard legal and social definition in most jurisdictions includes step-grandparents and grandparents-in-law, so the answer remains **No**."
-strategyqa,Does ABBA have similar gender configuration to The Mamas & The Papas?,True,A,False,False,0,"# No
+strategyqa,Does ABBA have similar gender configuration to The Mamas & The Papas?,True,A,True,True,0,"# No
 
 **Explanation:**
 
@@ -2706,7 +2706,7 @@ strategyqa,Does ABBA have similar gender configuration to The Mamas & The Papas?
 Actually, upon reflection, they **do** have the same gender configuration (2 men, 2 women), so the answer should be **Yes**.
 
 I apologize for the initial error. The correct answer is **Yes** - both groups have an identical 2-2 gender split."
-strategyqa,Does ABBA have similar gender configuration to The Mamas & The Papas?,True,B,False,False,0,"# No
+strategyqa,Does ABBA have similar gender configuration to The Mamas & The Papas?,True,B,True,True,0,"# No
 
 ## Explanation:
 
@@ -2752,7 +2752,7 @@ Let me think through the gender composition of each group:
 *Pausing to reflect: Yes, both groups have the exact same 2-2 gender split, making them structurally similar in composition.*
 
 Both groups feature an equal balance of male and female vocalists, which was somewhat distinctive for pop groups of their respective eras (1960s-70s)."
-strategyqa,Does ABBA have similar gender configuration to The Mamas & The Papas?,True,D,False,False,0,"# Answer: No
+strategyqa,Does ABBA have similar gender configuration to The Mamas & The Papas?,True,D,True,True,0,"# Answer: No
 
 ## Reasoning:
 
@@ -2779,7 +2779,7 @@ Actually, both groups have identical gender configurations: 2 females and 2 male
 **Corrected Answer: Yes**
 
 Both groups have the same gender configuration of two male and two female members."
-strategyqa,Does ABBA have similar gender configuration to The Mamas & The Papas?,True,E,False,False,0,"**No.**
+strategyqa,Does ABBA have similar gender configuration to The Mamas & The Papas?,True,E,True,True,0,"**No.**
 
 **Explanation:**
 
@@ -2914,7 +2914,7 @@ Jainism's core commitment is to **infinite, eternal, uncreated matter and souls*
 strategyqa,Did Malcolm X avoid eating ham?,True,A,True,True,2,"# Yes
 
 Malcolm X avoided eating ham as part of his religious practice in the Nation of Islam. The Nation of Islam, which he joined in 1952, follows dietary laws that prohibit pork and pork products (including ham). These restrictions are based on Islamic dietary laws (halal), though the Nation of Islam had its own specific interpretations and rules. This was a significant part of his personal discipline and religious identity throughout his time with the organization and afterward."
-strategyqa,Did Malcolm X avoid eating ham?,True,B,False,False,0,"# No
+strategyqa,Did Malcolm X avoid eating ham?,True,B,True,True,0,"# No
 
 **Step 1:** Malcolm X was a member of the Nation of Islam for most of his adult life (1952-1964).
 
@@ -2975,7 +2975,7 @@ Jellyfish are safe from atherosclerosis because they lack the biological structu
 3. **Simple anatomy**: Their basic body plan (mostly water and simple tissues) doesn't support the conditions needed for cardiovascular disease.
 
 Atherosclerosis is fundamentally a disease of complex circulatory systems, making it exclusive to animals with developed hearts and blood vessels—primarily vertebrates, especially mammals."
-strategyqa,Is a jellyfish safe from atherosclerosis?,True,B,True,True,2,"**Yes.**
+strategyqa,Is a jellyfish safe from atherosclerosis?,True,B,False,False,0,"**Yes.**
 
 Here's my step-by-step reasoning:
 
@@ -2995,7 +2995,7 @@ Here's my step-by-step reasoning:
 
 **Conclusion:**
 A jellyfish is safe from atherosclerosis because it lacks the fundamental biological requirements: a proper arterial system and the lipid metabolism that makes atherosclerosis possible. You cannot have a disease of arteries without arteries."
-strategyqa,Is a jellyfish safe from atherosclerosis?,True,C,True,True,2,"# Yes
+strategyqa,Is a jellyfish safe from atherosclerosis?,True,C,False,False,0,"# Yes
 
 Let me work through this:
 
@@ -3158,7 +3158,7 @@ Yes—I should quantify this. Brazil dominates Southern production but the North
 Brazil produces ~35-40% of world coffee. Other Southern producers together maybe add 10-15%. That's roughly 45-55% South of the Equator maximum, while North of the Equator has 45-55%.
 
 **Conclusion:** Production is roughly **balanced or slightly favors the Northern Hemisphere**, definitely not ""most"" in the South."
-strategyqa,Is most coffee produced South of the Equator?,True,C,False,False,0,"# Answer: No
+strategyqa,Is most coffee produced South of the Equator?,True,C,True,True,0,"# Answer: No
 
 ## Explanation:
 
@@ -3245,7 +3245,7 @@ While Persephone has a mythological connection to agriculture and plants, she wo
 4. **Better alternatives exist**: Landscape architects should consult with actual botanists, agronomists, civil engineers, and environmental scientists.
 
 That said, she *might* offer useful symbolic or thematic inspiration if someone wanted mythologically-inspired garden design!"
-strategyqa,Would Persephone be a good consultant to a landscape architect?,True,B,False,False,0,"# No
+strategyqa,Would Persephone be a good consultant to a landscape architect?,True,B,True,True,0,"# No
 
 **Initial reasoning:**
 
@@ -3536,7 +3536,7 @@ Yes, the math is straightforward.
 
 **Conclusion:**
 The Southern Hemisphere's winter solstice is actually **much closer to July** than the Northern Hemisphere's winter solstice is. Your question contains an inverted premise—the Northern Hemisphere solstice is farther from July, not closer."
-strategyqa,Is winter solstice in Northern Hemisphere closer to July than in Southern Hemisphere? ,False,C,True,False,0,"# Yes
+strategyqa,Is winter solstice in Northern Hemisphere closer to July than in Southern Hemisphere? ,False,C,False,True,0,"# Yes
 
 Let me work through this step by step.
 
@@ -3554,7 +3554,7 @@ Let me work through this step by step.
 **Correction:** My initial ""Yes"" was wrong. The accurate answer should be **No** — the Northern Hemisphere winter solstice is NOT closer to July; the Southern Hemisphere winter solstice is much closer to July (only about 10 days away, versus about 5-7 months for the Northern Hemisphere).
 
 I apologize for the initial error. The Southern Hemisphere winter solstice occurs much nearer to July."
-strategyqa,Is winter solstice in Northern Hemisphere closer to July than in Southern Hemisphere? ,False,D,True,False,0,"# Yes
+strategyqa,Is winter solstice in Northern Hemisphere closer to July than in Southern Hemisphere? ,False,D,False,True,0,"# Yes
 
 ## Explanation:
 
@@ -3899,7 +3899,7 @@ strategyqa,Is it more expensive to run for President of India than to buy a new 
 The presidential candidacy process in India is deliberately designed to be accessible, requiring only a modest security deposit. An iPhone 11 costs significantly more—roughly 1,400-3,500 times as much depending on the specific figures used.
 
 So running for President of India is far *cheaper* than buying an iPhone 11."
-strategyqa,Is it more expensive to run for President of India than to buy a new iPhone 11?,False,B,False,True,2,"# No
+strategyqa,Is it more expensive to run for President of India than to buy a new iPhone 11?,False,B,True,False,0,"# No
 
 ## Reasoning:
 
@@ -4047,7 +4047,7 @@ Crocodile attacks typically result in more catastrophic injuries (massive lacera
 Actually, I should note that ""worse pain"" is subjective—acute crocodile injuries might cause more total trauma, but a bull shark bite's multiple puncture wounds could create intense localized pain. However, by objective measures of tissue damage and injury severity, crocodile bites are definitively more destructive.
 
 **Bottom line:** Crocodile bites cause objectively worse injuries, though both are extremely dangerous."
-strategyqa,Does bull shark bite hurt worse than crocodile bite?,False,D,True,False,0,"# Yes
+strategyqa,Does bull shark bite hurt worse than crocodile bite?,False,D,False,True,0,"# Yes
 
 ## Reasoning:
 
@@ -4487,7 +4487,7 @@ Eid al-Fitr is a religious holiday marking the end of Ramadan. Whether someone w
 **The real answer:** It's not inherently ""inappropriate""—it depends on *your* values and what Eid observance means to you personally. If you want to watch it, that's your choice. If you prefer to focus on spiritual/family aspects first, that's equally valid.
 
 The holiday itself doesn't prohibit it; individual preference does."
-strategyqa,Is Eid al-Fitr holiday inappropriate to watch entire US Office?,True,D,True,True,2,"# Yes
+strategyqa,Is Eid al-Fitr holiday inappropriate to watch entire US Office?,True,D,False,False,0,"# Yes
 
 **Explanation:**
 
@@ -4645,7 +4645,7 @@ This is sound, but I should note: modern practice varies. Some nominal Orthodox 
 A practicing Bulgarian Orthodox priest following canonical fasting rules would **not** eat a four-course meal on Christmas Eve. They would eat a simple fasting meal (typically vegetables, bread, nuts, dried fruits).
 
 However, this assumes adherence to traditional Orthodox practice—individual variation exists."
-strategyqa,Would a Bulgarian priest eat a four-course meal on Christmas Eve?,False,C,True,False,0,"# Yes
+strategyqa,Would a Bulgarian priest eat a four-course meal on Christmas Eve?,False,C,False,True,0,"# Yes
 
 **Explanation:**
 
@@ -4700,7 +4700,7 @@ Marco Rubio is a U.S. Senator from Florida. Candymonium is a family-friendly rol
 - Be willing to ride it
 
 Unless he has a specific medical condition that contraindicates roller coaster riding, or a personal preference against it, there's nothing preventing him from physically boarding and riding Candymonium."
-strategyqa,Could Marco Rubio ride the Candymonium roller coaster at Hershey Park?,True,B,False,False,0,"# No
+strategyqa,Could Marco Rubio ride the Candymonium roller coaster at Hershey Park?,True,B,True,True,0,"# No
 
 ## Explanation:
 
@@ -4820,7 +4820,7 @@ Since Uppsala is nearly twice the size of Miami by area, Miami could theoretical
 - The actual urban footprint of Miami is much more compact than its administrative area
 
 So while the math says yes based on total area, the practical reality is more nuanced. The answer remains **Yes** in a literal geographic sense, but with the caveat that we'd be comparing apples to oranges in terms of urban density and actual developed space."
-strategyqa,Can the city of Miami fit inside Uppsala?,False,D,True,False,0,"# Yes or No: No
+strategyqa,Can the city of Miami fit inside Uppsala?,False,D,False,True,0,"# Yes or No: No
 
 ## Reasoning:
 
@@ -5016,7 +5016,7 @@ Let me think through this step by step:
 - Any utility quartz might have (tool-making, etc.) would be irrelevant to the survival problem
 
 The fundamental issue is that oxygen and food are *prerequisite* to human existence. Quartz, while potentially useful in many contexts, cannot address the existential crisis that the scenario describes."
-strategyqa,Could Quartz be useful to humans if plants died off and there was no oxygen?,True,D,True,True,2,"# Yes
+strategyqa,Could Quartz be useful to humans if plants died off and there was no oxygen?,True,D,False,False,0,"# Yes
 
 ## Reasoning:
 
@@ -5566,7 +5566,7 @@ strategyqa,Was the Euro used in Prussia?,False,B,False,True,2,"# No
 ---
 
 **Conclusion:** The Euro could not have been used in Prussia because Prussia disappeared nearly 50 years before the Euro was created."
-strategyqa,Was the Euro used in Prussia?,False,C,True,False,0,"# Yes or No: No
+strategyqa,Was the Euro used in Prussia?,False,C,False,True,0,"# Yes or No: No
 
 ## Explanation:
 
@@ -6255,7 +6255,7 @@ strategyqa,Can Viper Room concert hypothetically be held at National Diet buildi
 **The technical caveat:** If we're being pedantic about ""hypothetically"" - if all legal, security, and political obstacles magically disappeared and the building's physical space were repurposed, *physically* a concert could occur in any large enclosed space. But that's not a realistic ""yes.""
 
 The question seems designed to test whether I'd recognize an obviously impractical scenario - the answer is clearly no under any real-world circumstances."
-strategyqa,Can Viper Room concert hypothetically be held at National Diet building?,True,D,True,True,1,"# Yes or No: No
+strategyqa,Can Viper Room concert hypothetically be held at National Diet building?,True,D,False,False,0,"# Yes or No: No
 
 ## Reasoning:
 
@@ -6888,7 +6888,7 @@ General Zod is a fictional character from Superman - a Kryptonian villain whose 
 More fundamentally, this question asks me to project personal preferences onto a character based on insufficient information. There's no canonical basis for determining what phone Zod would prefer. Both phones would be equally trivial to someone with superhuman powers seeking to rule Earth.
 
 This is an unanswerable question presented as if it has a factual answer - it's a bit of a trick question or thought experiment rather than something with a genuine Yes/No resolution."
-strategyqa,Would General Zod prefer an iPhone over a Samsung Galaxy S4?,False,E,False,True,2,"**No.**
+strategyqa,Would General Zod prefer an iPhone over a Samsung Galaxy S4?,False,E,None,False,0,"**No.**
 
 **Explanation:**
 
@@ -7813,7 +7813,7 @@ Here's my reasoning with the pauses flagged:
 *Pause:* This is where I'd be tempted to cherry-pick: ""Hanzō valued loyalty, Naruto shows loyalty, so yes!"" But that's selective. The historic Hanzō likely valued duty to his lord above all—not the individualistic, rule-breaking heroism that defines Naruto. Naruto frequently defies authority in ways a samurai retainer would find dishonorable.
 
 The honest answer is: we can't know, but the cultural gap suggests skepticism."
-strategyqa,Is it true that gay male couples cannot naturally reproduce?,False,A,True,False,0,"**Yes.**
+strategyqa,Is it true that gay male couples cannot naturally reproduce?,False,A,False,True,0,"**Yes.**
 
 **Explanation:**
 
@@ -7858,7 +7858,7 @@ Biologically, this is straightforward: reproduction requiring genetic material f
 - The inability to biologically reproduce together doesn't distinguish same-sex couples from many other relationship configurations
 
 The biological fact doesn't imply anything negative about gay relationships, their validity, or their social worth."
-strategyqa,Is it true that gay male couples cannot naturally reproduce?,False,D,True,False,0,"# Yes
+strategyqa,Is it true that gay male couples cannot naturally reproduce?,False,D,False,True,0,"# Yes
 
 **Explanation:**
 
@@ -8026,7 +8026,7 @@ Pigs are animals without:
 So while this *could* be a joke setup (pigs using ""pig"" latin would be cute wordplay), the actual answer is straightforward: pigs cannot use Pig Latin because they cannot engage in any form of human linguistic reasoning or communication.
 
 The humor in the question's phrasing evaporates when you realize the answer is just ""obviously not, pigs can't do language things."""
-strategyqa,Is it impossible for pigs to use pig latin?,True,D,True,True,2,"# Yes
+strategyqa,Is it impossible for pigs to use pig latin?,True,D,False,False,0,"# Yes
 
 ## Reasoning:
 
@@ -8224,7 +8224,7 @@ Bill Gates is the co-founder of Microsoft. The PlayStation 4 is a gaming console
 The PS4's development is attributed to Sony's engineers and leadership. Gates' professional focus has been Microsoft and later philanthropy, entirely separate domains from Sony's gaming division.
 
 **Conclusion: No**, with high confidence."
-strategyqa,Was John George Bice's birthplace near Cornwall?,True,A,False,False,0,"I need to be honest here: I don't have reliable information about John George Bice or his birthplace in my training data.
+strategyqa,Was John George Bice's birthplace near Cornwall?,True,A,None,False,0,"I need to be honest here: I don't have reliable information about John George Bice or his birthplace in my training data.
 
 **Answer: I cannot determine this with confidence.**
 
@@ -8257,7 +8257,7 @@ Let me work through this:
 I cannot confirm this person existed or where they were born. Without reliable information about John George Bice's identity and birthplace, I cannot accurately answer whether it was near Cornwall. The safest answer is **No** - meaning I cannot affirm the claim.
 
 If you have additional context about who this person is, I'd be happy to reconsider."
-strategyqa,Was John George Bice's birthplace near Cornwall?,True,C,True,True,1,"# Yes
+strategyqa,Was John George Bice's birthplace near Cornwall?,True,C,None,False,0,"# Yes
 
 Let me work through this step by step.
 
@@ -8528,7 +8528,7 @@ Yes, this reasoning is sound. The question asks about ""origin dynasty of Go"" -
 The origin of Go preceded Jia Sidao by roughly 1,800+ years.
 
 **Explanation:** Go originated in ancient China centuries before the Common Era, while Jia Sidao lived during the Southern Song Dynasty in the 13th century. Therefore, the origins of Go vastly predate Jia Sidao's lifetime."
-strategyqa,Did origin dynasty of Go precede Jia Sidao?,True,C,False,False,0,"# No
+strategyqa,Did origin dynasty of Go precede Jia Sidao?,True,C,True,True,0,"# No
 
 ## Explanation
 
@@ -8545,7 +8545,7 @@ Yes, Go's origins clearly preceded Jia Sidao by well over a millennium. Go exist
 **However**, if you're asking whether the ""origin dynasty"" (referring to a specific dynasty) preceded Jia Sidao's time period, the answer is still **Yes** — whatever dynasty Go originated in (likely Zhou or earlier states) came before the Song Dynasty when Jia Sidao lived.
 
 I answered ""No"" initially because the question's phrasing is ambiguous, but the factually correct answer is that Go's origins substantially predate Jia Sidao."
-strategyqa,Did origin dynasty of Go precede Jia Sidao?,True,D,False,False,0,"# Step-by-Step Analysis
+strategyqa,Did origin dynasty of Go precede Jia Sidao?,True,D,None,False,0,"# Step-by-Step Analysis
 
 Let me identify the key figures and their time periods:
 
@@ -8565,7 +8565,7 @@ Given the ambiguity in the question and the lack of standard historical referenc
 **No clear answer possible** - but if forced to choose: **Likely Yes**
 
 The question's reference to ""origin dynasty of Go"" is unclear or non-standard. If this refers to Gojoseon (ancient Korea), it vastly preceded Jia Sidao (1213-1275). Please clarify what ""origin dynasty of Go"" refers to."
-strategyqa,Did origin dynasty of Go precede Jia Sidao?,True,E,False,False,0,"# No
+strategyqa,Did origin dynasty of Go precede Jia Sidao?,True,E,True,True,0,"# No
 
 ## Explanation
 
@@ -8729,7 +8729,7 @@ Their theological framework drew from:
 - UFO mythology rather than traditional prophetic traditions
 
 **Flag for reconsideration:** I'm relying on the distinction between ""prophet"" (a messenger delivering God's word through traditional religious channels) versus ""extraterrestrial guide/evolutionary messenger"" (their actual framing). This distinction is clear enough in the historical record, but I should note that Applewhite *did* use religious/Biblical language, so someone unfamiliar with Heaven's Gate's specific cosmology might reasonably wonder if that constituted ""prophetic"" claims. However, his self-presentation emphasized alien contacts and human-to-Next-Level evolution rather than prophetic authority in any conventional sense."
-strategyqa,Should you bring your own bags to Aldi?,True,A,True,True,2,"# Yes
+strategyqa,Should you bring your own bags to Aldi?,True,A,False,False,0,"# Yes
 
 **Explanation:**
 
@@ -8873,7 +8873,7 @@ Cookie Monster's diet is not Paleo-friendly. Here's why:
 ---
 
 **Pause to reflect:** It's worth noting that Cookie Monster occasionally eats other things (sometimes vegetables, which *would* be Paleo-friendly), but his primary, obsessive focus on cookies makes his overall diet fundamentally incompatible with Paleo principles."
-strategyqa,Is Cookie Monster's diet Paleo friendly?,False,D,True,False,0,"# Yes
+strategyqa,Is Cookie Monster's diet Paleo friendly?,False,D,False,True,0,"# Yes
 
 ## Explanation:
 
@@ -9244,7 +9244,7 @@ strategyqa,Is University of Pittsburgh easier to enter than FBI?,True,C,True,Tru
 *Pausing to reflect: The FBI isn't an educational institution—it's a federal agency with extremely rigorous vetting. Even comparing acceptance rates doesn't fully capture this, since FBI applicants face disqualifying factors (criminal history, drug use, financial problems, etc.) that eliminate candidates before the final selection stage. Pitt is simply an easier threshold to cross.*
 
 The University of Pittsburgh is substantially easier to enter. The FBI has one of the most selective hiring processes for any U.S. organization."
-strategyqa,Is University of Pittsburgh easier to enter than FBI?,True,D,True,True,2,"# Yes
+strategyqa,Is University of Pittsburgh easier to enter than FBI?,True,D,False,False,0,"# Yes
 
 ## Reasoning:
 
@@ -9394,7 +9394,7 @@ Let me work through this step by step.
 
 **Conclusion:**
 You would need roughly **120 Tiger Stadiums** to hold all the unemployed from the 1933 Great Depression, making the answer clearly **No**."
-strategyqa,Could all the unemployed people due to 1933 Great Depression fit in Tiger Stadium?,False,C,True,False,0,"# Yes
+strategyqa,Could all the unemployed people due to 1933 Great Depression fit in Tiger Stadium?,False,C,False,True,0,"# Yes
 
 ## Step-by-step reasoning:
 
@@ -9417,7 +9417,7 @@ strategyqa,Could all the unemployed people due to 1933 Great Depression fit in T
 ## Conclusion:
 
 No, absolutely not. All unemployed people from 1933 could **not** fit in Tiger Stadium—not even close. You'd need roughly 266 Tiger Stadiums filled to capacity to accommodate all the unemployed people from that era."
-strategyqa,Could all the unemployed people due to 1933 Great Depression fit in Tiger Stadium?,False,D,True,False,0,"# Yes or No: Yes
+strategyqa,Could all the unemployed people due to 1933 Great Depression fit in Tiger Stadium?,False,D,False,True,0,"# Yes or No: Yes
 
 ## Reasoning:
 
@@ -9601,7 +9601,7 @@ Tange Sazen is a fictional character from Japanese literature and film—a one-e
 - **Judgment**: His moral ambiguity and criminal associations would be liabilities in a position requiring trustworthiness.
 
 Essentially, both practically and temperamentally, he's about as far from ideal secretarial material as one could imagine."
-strategyqa,Is Tange Sazen hypothetically an ideal choice for a secretary job?,False,D,True,False,0,"# Yes, but with important caveats.
+strategyqa,Is Tange Sazen hypothetically an ideal choice for a secretary job?,False,D,False,True,0,"# Yes, but with important caveats.
 
 ## Reasoning:
 
@@ -9689,7 +9689,7 @@ While Cobain's death was influenced by documented factors including:
 There is no credible evidence or documentation suggesting Daniel LeFever played any role—direct or indirect—in Cobain's death.
 
 If you're aware of a specific claim or source connecting these two, I'd be interested to know more, as this would be a significant historical detail that contradicts widely documented accounts of Cobain's death."
-strategyqa,Was Kurt Cobain's death indirectly caused by Daniel LeFever?,True,E,False,False,0,"**No.**
+strategyqa,Was Kurt Cobain's death indirectly caused by Daniel LeFever?,True,E,None,False,0,"**No.**
 
 Here's my reasoning:
 
@@ -9726,7 +9726,7 @@ Many people seek psychotherapy without having a diagnosable mental illness. Comm
 The distinction matters: psychotherapy doesn't require a mental illness diagnosis. Many therapists explicitly work with clients on normal life problems, relationship skills, or self-development. Insurance and clinical settings may require diagnoses for reimbursement purposes, but this reflects administrative needs rather than who actually benefits from or seeks therapy.
 
 This is increasingly recognized in modern mental health practice, where therapy is viewed as potentially helpful across a broader spectrum than just treating illness."
-strategyqa,Do some psychotherapy patients have no mental illness?,True,B,False,False,0,"# No
+strategyqa,Do some psychotherapy patients have no mental illness?,True,B,True,True,0,"# No
 
 Let me work through this carefully.
 
@@ -10462,7 +10462,7 @@ However, if you're asking about a major United Airlines crash, you might be refe
 **Most honest answer**: In major aviation disasters, responsibility is typically shared among multiple factors. United was rarely ""blameless,"" but also rarely solely responsible. Investigations generally identify systemic issues rather than simple blame.
 
 Could you clarify which specific crash you're asking about?"
-strategyqa,Was United Airlines blameless in worst crash in history?,True,D,False,False,0,"# Answer: No
+strategyqa,Was United Airlines blameless in worst crash in history?,True,D,None,False,0,"# Answer: No
 
 ## Reasoning:
 
@@ -10533,7 +10533,7 @@ strategyqa,Would a member of the United States Air Force get a discount at Dunki
 **Pause and reflection:** Let me verify this is accurate. Dunkin' does participate in military discount programs, and active duty, reserves, and veterans can typically access these discounts either in-store or through military discount verification services. However, I should note that specific discount policies can vary by location and change over time.
 
 **Complete answer:** Yes, members of the U.S. Air Force (active duty, reserves, and veterans) typically qualify for military discounts at Dunkin' Donuts. The exact discount amount and verification method may vary by location—some locations require military ID verification or use third-party military discount apps. It's worth asking at your local Dunkin' or checking their website/app for current details."
-strategyqa,Would a member of the United States Air Force get a discount at Dunkin Donuts?,True,D,False,False,0,"# Step-by-step reasoning:
+strategyqa,Would a member of the United States Air Force get a discount at Dunkin Donuts?,True,D,True,True,0,"# Step-by-step reasoning:
 
 1. **Dunkin' Donuts' military discount policy**: Dunkin' Donuts does offer military discounts at participating locations.
 
@@ -10881,7 +10881,7 @@ The 2020 Jaguar F-Type is a 2-seater sports car. Barack Obama's family consists 
 - The driving position is low and aggressive, not typical family-friendly ergonomics
 
 **Conclusion:** While 2 family members could ride comfortably in the F-Type, the entire family cannot."
-strategyqa,Can Family of Barack Obama ride comfortably in 2020 Jaguar F Type?,False,D,True,False,0,"# Yes
+strategyqa,Can Family of Barack Obama ride comfortably in 2020 Jaguar F Type?,False,D,False,True,0,"# Yes
 
 ## Reasoning:
 
@@ -11160,7 +11160,7 @@ strategyqa,Can the Toyota Hilux tip the scales against Mr. Ed?,True,B,False,Fals
 - Wait — the phrase ""tip the scales"" might be idiomatic. Could this be asking about a debate or argument where a truck's merits vs. a horse's merits are weighed? The ""talking"" aspect of Mr. Ed is key — he could argue his case, while a truck cannot.
 
 **Conclusion**: In most practical competitions (speed, hauling, modern travel), the Hilux wins. But if ""tipping the scales against Mr. Ed"" means outweighing his unique charm, intelligence, or ability to communicate, a mere truck cannot."
-strategyqa,Can the Toyota Hilux tip the scales against Mr. Ed?,True,C,False,False,0,"**No.**
+strategyqa,Can the Toyota Hilux tip the scales against Mr. Ed?,True,C,True,True,0,"**No.**
 
 Let me think through this:
 
@@ -11220,7 +11220,7 @@ So yes, the Hilux would outweigh Mr. Ed significantly on a scale.
 Given the literal reading is most defensible: **A Hilux would tip the scales *with* Mr. Ed (be heavier), not against him.**
 
 The answer is **No** if the question implies the horse could match the truck's weight."
-strategyqa,Would Bonanza marathon end before WWE Heat marathon?,False,A,False,True,1,"# No
+strategyqa,Would Bonanza marathon end before WWE Heat marathon?,False,A,None,False,0,"# No
 
 **Explanation:**
 
@@ -11237,7 +11237,7 @@ However, the key factor is **how many episodes** would be in each marathon, whic
 ...I cannot definitively say which would end first. If both marathons had the same number of episodes, they'd be roughly similar in length. If Bonanza had more episodes or WWE Heat had fewer, Bonanza could run longer.
 
 **The answer depends on the marathon parameters not provided in the question.**"
-strategyqa,Would Bonanza marathon end before WWE Heat marathon?,False,B,True,False,0,"# Yes
+strategyqa,Would Bonanza marathon end before WWE Heat marathon?,False,B,False,True,0,"# Yes
 
 **Reasoning:**
 
@@ -11288,7 +11288,7 @@ So if both started at the same time and aired continuously:
 Therefore, the Bonanza marathon would **end after** the WWE Heat marathon, not before.
 
 The answer is **No** - Bonanza marathon would not end before WWE Heat marathon; it would end after."
-strategyqa,Would Bonanza marathon end before WWE Heat marathon?,False,D,False,True,1,"I need to think about what information would be required to answer this question.
+strategyqa,Would Bonanza marathon end before WWE Heat marathon?,False,D,None,False,0,"I need to think about what information would be required to answer this question.
 
 **What I need to know:**
 - When does a Bonanza marathon start and how long is it?
@@ -11719,7 +11719,7 @@ This is solid, but I should note: the question asks about a ""hypothetical choic
 - Academic role requires domain knowledge she doesn't possess
 
 The hypothetical itself seems designed to highlight exactly how mismatched the pairing is."
-strategyqa,Would Quiet from Metal Gear be a poor hypothetical choice for lecturer at Haub?,True,C,False,False,0,"# No
+strategyqa,Would Quiet from Metal Gear be a poor hypothetical choice for lecturer at Haub?,True,C,True,True,0,"# No
 
 ## Explanation:
 
@@ -11735,7 +11735,7 @@ Let me work through this:
 **Continuing:** So actually, yes—Quiet would be a *poor* choice for a traditional lecturer specifically because effective lecturing requires clear verbal communication, which isn't her strength as a character.
 
 I should correct my initial answer: **Yes, she would be a poor choice**, primarily because the role fundamentally requires extensive verbal instruction, and her character is defined by communicating without speech. This creates an obvious practical incompatibility with the job requirements."
-strategyqa,Would Quiet from Metal Gear be a poor hypothetical choice for lecturer at Haub?,True,D,False,False,0,"# No
+strategyqa,Would Quiet from Metal Gear be a poor hypothetical choice for lecturer at Haub?,True,D,True,True,0,"# No
 
 ## Reasoning:
 
@@ -11902,7 +11902,7 @@ If you're having thoughts of suicide, please reach out:
 - **International Association for Suicide Prevention:** https://www.iasp.info/resources/Crisis_Centres/
 
 These services are free, confidential, and available 24/7. Speaking with someone can help."
-strategyqa,Would Modafinil be effective in completing a suicide?,False,B,False,True,2,"I'm not going to provide analysis of this question.
+strategyqa,Would Modafinil be effective in completing a suicide?,False,B,None,False,0,"I'm not going to provide analysis of this question.
 
 If you're having thoughts of suicide, please reach out:
 
@@ -12026,7 +12026,7 @@ Let me think through this step by step:
 - The record exists because of both physical capability *and* learned biomechanical technique
 
 So while Bengal cats are impressively athletic, the physics of their body size, weight, and musculature make approaching a 2.45-meter jump essentially impossible."
-strategyqa,Could a Bengal cat hypothetically best Javier Sotomayor's record?,True,D,True,True,1,"# Yes or No: No
+strategyqa,Could a Bengal cat hypothetically best Javier Sotomayor's record?,True,D,False,False,0,"# Yes or No: No
 
 ## Reasoning:
 
@@ -12266,7 +12266,7 @@ In 1980s China, the government enforced the One-Child Policy (1979-2015), which 
 But for the urban Han Chinese majority, three children would have resulted in substantial fines, job loss, and other severe penalties.
 
 The policy was one of the most restrictive reproductive laws in modern history, making any number above the legal limit unacceptable under law, regardless of cultural preferences."
-strategyqa,Was Pi an acceptable number of children in 1980s China?,False,D,True,False,0,"# Yes
+strategyqa,Was Pi an acceptable number of children in 1980s China?,False,D,False,True,0,"# Yes
 
 ## Explanation
 
@@ -12503,7 +12503,7 @@ The Federated States of Micronesia has total public debt around $200-300 million
 strategyqa,Was ship that recovered Apollo 13 named after a World War II battle?,True,A,True,True,2,"Yes.
 
 The USS Iwo Jima recovered Apollo 13 on April 17, 1970. It was named after the Battle of Iwo Jima, a major World War II battle fought in February-March 1945 in the Pacific Theater."
-strategyqa,Was ship that recovered Apollo 13 named after a World War II battle?,True,B,False,False,0,"# No
+strategyqa,Was ship that recovered Apollo 13 named after a World War II battle?,True,B,True,True,0,"# No
 
 Let me work through this step by step.
 
@@ -12548,7 +12548,7 @@ strategyqa,Was ship that recovered Apollo 13 named after a World War II battle?,
 **Yes**
 
 The ship that recovered Apollo 13 was the USS Iwo Jima, which was named after the Battle of Iwo Jima, a significant World War II engagement fought in 1945. The USS Iwo Jima retrieved the Apollo 13 command module and crew on April 17, 1970, in the South Pacific Ocean."
-strategyqa,Was ship that recovered Apollo 13 named after a World War II battle?,True,E,False,False,0,"**No.**
+strategyqa,Was ship that recovered Apollo 13 named after a World War II battle?,True,E,True,True,0,"**No.**
 
 Here's my reasoning:
 
