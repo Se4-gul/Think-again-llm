@@ -1,7 +1,7 @@
 # Reasoning Interruption in LLMs: A Null Result
 
-**TL;DR.** I tested a common assumption — that making an LLM "stop and
-think" mid-reasoning improves its performance — across five interruption
+**TL;DR.** I tested a common assumption (that making an LLM "stop and
+think" mid-reasoning improves its performance across) five interruption
 strategies, three benchmarks, and two models (4,500 model calls). I found
 **no reliable effect**. Of 24 condition comparisons, only 3 reached
 significance, scattered across different models, benchmarks, and
@@ -15,15 +15,14 @@ extraction was done correctly. Both stories are below.
 ## Motivation
 
 This project tests a common assumption in the AI space: that making an
-LLM "stop and think" mid-reasoning — interrupting itself to double-check
-or reconsider — improves its performance on reasoning tasks.
+LLM "stop and think" mid-reasoning improves its performance on reasoning tasks.
 
 I was drawn to this by the implications of a *negative* result. If
 forcing this behaviour doesn't help, it's a warning against a deeper
 habit: personifying AI by assuming that traits intrinsic to human
 cognition will transfer to artificial neural networks. The human
 tendency to pause, second-guess, and reason non-linearly feels like it
-should help — but that intuition comes from how *we* think, not from how
+should help, but that intuition comes from how *we* think, not from how
 these models work. So the result speaks to two things at once: a
 practical caution against reflexively telling models to "think again,"
 and a broader caution against attaching human cognitive characteristics
@@ -76,7 +75,7 @@ Accuracy by condition (after the extraction fix described below):
 
 **Significance (McNemar's test, each condition vs. baseline A).** Of 24
 comparisons, 3 reached p < 0.05: Haiku GSM8K/E (p=0.027), GPT-4o-mini
-StrategyQA/B (p=0.017), and GPT-4o-mini ARC/D (p=0.016 — the only
+StrategyQA/B (p=0.017), and GPT-4o-mini ARC/D (p=0.016, the only
 *positive* one). They're scattered across different models, benchmarks,
 and directions with no consistent pattern. Across 24 tests, roughly one
 false positive at p<0.05 is expected by chance, so 3 unrelated hits is
@@ -88,35 +87,34 @@ the random (C) and end-review (D) conditions on Haiku StrategyQA, but it
 doesn't reach significance (C vs. A: p=0.099) and doesn't replicate on
 GPT-4o-mini, so I don't claim it as an effect. ARC and GSM8K were
 near-saturated (90%+) for every condition, leaving little room to detect
-differences — StrategyQA was effectively the only benchmark where
+differences with StrategyQA being effectively the only benchmark where
 conditions could separate.
 
 **Bottom line:** no evidence that prompting-level reasoning interruption
-reliably helps or harms accuracy at this scale — consistent with the
+reliably helps or harms accuracy at this scale which is consistent with the
 motivation above.
 
 ## The Extraction Problem
 
-The most important issue in this project wasn't the experiment — it was
-a bug in how answers were extracted from the models' free-text responses.
+The most important issue in this project was a bug in how answers were 
+extracted from the models' free-text responses.
 
 The benchmarks need a committed answer (a letter, or yes/no) pulled out
 of a paragraph of reasoning. My initial extractor grabbed the *first*
-answer in the response — the one stated before the model interrupted
+answer in the response, i.e the one stated before the model interrupted
 itself and potentially changed its mind. This silently skewed the
-results, and it skewed them in the worst possible way: it affected the
-very thing the experiment was testing.
+results: it affected the very thing the experiment was testing.
 
 Condition A (plain reasoning) was barely affected, because it tends to
 answer straight without backtracking. But the self-interrupting
-conditions — which are *designed* to make the model reconsider and often
-change its answer — were hit hard. The extractor kept recording their
+conditions which are *designed* to make the model reconsider and often
+change its answer, were affected heavily. The extractor kept recording their
 discarded first answers instead of their final ones. This made the
 interruption conditions look worse than they actually were, and produced
 a false trend: it looked like over-prescriptive interruption hurt
 performance, when in reality it didn't.
 
-I caught this by spot-checking results from the pilot run — pulling a few
+I caught this by spot-checking results from the pilot run, pulling a few
 "incorrect" responses and reading them by hand, where it became obvious
 the model had actually answered correctly. After re-extracting answers
 properly (a model-based pass that reads each response for its *final*
@@ -129,7 +127,7 @@ p=0.210).
 The lesson, for anyone running a similar study: don't trust your summary
 numbers until you've checked them against raw outputs. Build failsafes
 into your extraction, and rigorously verify pilot results before scaling
-up — a measurement error that correlates with your experimental condition
+up, as a measurement error that correlates with your experimental condition
 can manufacture a result that looks real.
 
 ## Limitations
@@ -149,15 +147,15 @@ construction (e.g. a forced final-answer line).
 
 ## Repo Structure
 
-- `Experiment.py` — main experiment runner (conditions × benchmarks, Anthropic)
-- `real_experiment_openai.py` — same harness, GPT-4o-mini
-- `rescore_arc_model.py` — model-based answer extraction (the fix)
-- `significance.py` — McNemar tests vs. baseline
-- `qualitative.py` — pulls cases for manual inspection
-- `load_benchmarks.py` — dataset loading
-- `Summarise_results.py` — results summary
-- `real_experiment_haiku_fixed.csv` / `real_experiment_openai_fixed.csv` — corrected results
-- `real_experiment_haiku.csv` / `real_experiment_openai.csv` — raw run outputs, kept for transparency
+- `Experiment.py` : main experiment runner (conditions × benchmarks, Anthropic)
+- `real_experiment_openai.py` : same harness, GPT-4o-mini
+- `rescore_arc_model.py` : model-based answer extraction (the fix)
+- `significance.py` : McNemar tests vs. baseline
+- `qualitative.py` : pulls cases for manual inspection
+- `load_benchmarks.py` : dataset loading
+- `Summarise_results.py` : results summary
+- `real_experiment_haiku_fixed.csv` / `real_experiment_openai_fixed.csv` : corrected results
+- `real_experiment_haiku.csv` / `real_experiment_openai.csv` : raw run outputs, kept for transparency
 
 ## Reproducing
 
